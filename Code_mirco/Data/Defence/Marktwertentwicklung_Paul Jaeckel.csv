@@ -1,0 +1,17 @@
+date,unformattedDate,age,marketValue,marketValueUnformatted,marketValueCurrency,marketValueNumeral,clubID,clubName,clubShortName,clubImage,seasonID,Name
+11.2022,2022-11-09,24,"7,50",7500000,€,Mio.,89,1.FC Union Berlin,Union Berlin,https://tmssl.akamaized.net/images/wappen/medium/89.png?lm=1402956210,22/23,Paul Jaeckel
+09.2022,2022-09-21,24,"7,50",7500000,€,Mio.,89,1.FC Union Berlin,Union Berlin,https://tmssl.akamaized.net/images/wappen/medium/89.png?lm=1402956210,22/23,Paul Jaeckel
+06.2022,2022-06-09,23,"5,00",5000000,€,Mio.,89,1.FC Union Berlin,Union Berlin,https://tmssl.akamaized.net/images/wappen/medium/89.png?lm=1402956210,21/22,Paul Jaeckel
+03.2022,2022-03-24,23,"3,50",3500000,€,Mio.,89,1.FC Union Berlin,Union Berlin,https://tmssl.akamaized.net/images/wappen/medium/89.png?lm=1402956210,21/22,Paul Jaeckel
+12.2021,2021-12-22,23,"2,50",2500000,€,Mio.,89,1.FC Union Berlin,Union Berlin,https://tmssl.akamaized.net/images/wappen/medium/89.png?lm=1402956210,21/22,Paul Jaeckel
+06.2021,2021-06-16,22,"2,00",2000000,€,Mio.,65,SpVgg Greuther Fürth,Greuther Fürth,https://tmssl.akamaized.net/images/wappen/medium/65.png?lm=1503682935,20/21,Paul Jaeckel
+02.2021,2021-02-08,22,"1,00",1000000,€,Mio.,65,SpVgg Greuther Fürth,Greuther Fürth,https://tmssl.akamaized.net/images/wappen/medium/65.png?lm=1503682935,20/21,Paul Jaeckel
+11.2020,2020-11-18,22,600,600000,€,Tsd.,65,SpVgg Greuther Fürth,Greuther Fürth,https://tmssl.akamaized.net/images/wappen/medium/65.png?lm=1503682935,20/21,Paul Jaeckel
+04.2020,2020-04-08,21,575,575000,€,Tsd.,65,SpVgg Greuther Fürth,Greuther Fürth,https://tmssl.akamaized.net/images/wappen/medium/65.png?lm=1503682935,19/20,Paul Jaeckel
+04.2020,2020-04-02,21,650,650000,€,Tsd.,65,SpVgg Greuther Fürth,Greuther Fürth,https://tmssl.akamaized.net/images/wappen/medium/65.png?lm=1503682935,19/20,Paul Jaeckel
+12.2019,2019-12-13,21,500,500000,€,Tsd.,65,SpVgg Greuther Fürth,Greuther Fürth,https://tmssl.akamaized.net/images/wappen/medium/65.png?lm=1503682935,19/20,Paul Jaeckel
+06.2019,2019-06-12,20,650,650000,€,Tsd.,65,SpVgg Greuther Fürth,Greuther Fürth,https://tmssl.akamaized.net/images/wappen/medium/65.png?lm=1503682935,18/19,Paul Jaeckel
+01.2019,2019-01-08,20,500,500000,€,Tsd.,65,SpVgg Greuther Fürth,Greuther Fürth,https://tmssl.akamaized.net/images/wappen/medium/65.png?lm=1503682935,18/19,Paul Jaeckel
+08.2018,2018-08-22,20,500,500000,€,Tsd.,82,VfL Wolfsburg,VfL Wolfsburg,https://tmssl.akamaized.net/images/wappen/medium/82.png?lm=1503060755,18/19,Paul Jaeckel
+02.2018,2018-02-09,19,50,50000,€,Tsd.,143,VfL Wolfsburg II (- 2021),Wolfsburg II,https://tmssl.akamaized.net/images/wappen/medium/143.png?lm=1616796625,17/18,Paul Jaeckel
+08.2017,2017-08-02,19,50,50000,€,Tsd.,143,VfL Wolfsburg II (- 2021),Wolfsburg II,https://tmssl.akamaized.net/images/wappen/medium/143.png?lm=1616796625,17/18,Paul Jaeckel

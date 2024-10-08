@@ -1,0 +1,25 @@
+date,unformattedDate,age,marketValue,marketValueUnformatted,marketValueCurrency,marketValueNumeral,clubID,clubName,clubShortName,clubImage,seasonID,Name
+11.2022,2022-11-09,26,"15,00",15000000,€,Mio.,23826,RasenBallsport Leipzig,RB Leipzig,https://tmssl.akamaized.net/images/wappen/medium/23826.png?lm=1619431624,22/23,Abdou Diallo
+05.2022,2022-05-30,26,"18,00",18000000,€,Mio.,583,FC Paris Saint-Germain,Paris SG,https://tmssl.akamaized.net/images/wappen/medium/583.png?lm=1522312728,21/22,Abdou Diallo
+03.2022,2022-03-23,25,"22,00",22000000,€,Mio.,583,FC Paris Saint-Germain,Paris SG,https://tmssl.akamaized.net/images/wappen/medium/583.png?lm=1522312728,21/22,Abdou Diallo
+12.2021,2021-12-16,25,"25,00",25000000,€,Mio.,583,FC Paris Saint-Germain,Paris SG,https://tmssl.akamaized.net/images/wappen/medium/583.png?lm=1522312728,21/22,Abdou Diallo
+06.2021,2021-06-04,25,"25,00",25000000,€,Mio.,583,FC Paris Saint-Germain,Paris SG,https://tmssl.akamaized.net/images/wappen/medium/583.png?lm=1522312728,20/21,Abdou Diallo
+10.2020,2020-10-15,24,"25,00",25000000,€,Mio.,583,FC Paris Saint-Germain,Paris SG,https://tmssl.akamaized.net/images/wappen/medium/583.png?lm=1522312728,20/21,Abdou Diallo
+04.2020,2020-04-08,23,"28,00",28000000,€,Mio.,583,FC Paris Saint-Germain,Paris SG,https://tmssl.akamaized.net/images/wappen/medium/583.png?lm=1522312728,19/20,Abdou Diallo
+12.2019,2019-12-19,23,"35,00",35000000,€,Mio.,583,FC Paris Saint-Germain,Paris SG,https://tmssl.akamaized.net/images/wappen/medium/583.png?lm=1522312728,19/20,Abdou Diallo
+06.2019,2019-06-05,23,"35,00",35000000,€,Mio.,16,Borussia Dortmund,Bor. Dortmund,https://tmssl.akamaized.net/images/wappen/medium/16.png?lm=1396275280,18/19,Abdou Diallo
+12.2018,2018-12-18,22,"33,00",33000000,€,Mio.,16,Borussia Dortmund,Bor. Dortmund,https://tmssl.akamaized.net/images/wappen/medium/16.png?lm=1396275280,18/19,Abdou Diallo
+08.2018,2018-08-22,22,"25,00",25000000,€,Mio.,16,Borussia Dortmund,Bor. Dortmund,https://tmssl.akamaized.net/images/wappen/medium/16.png?lm=1396275280,18/19,Abdou Diallo
+06.2018,2018-06-05,22,"12,00",12000000,€,Mio.,39,1.FSV Mainz 05,1.FSV Mainz 05,https://tmssl.akamaized.net/images/wappen/medium/39.png?lm=1564748880,17/18,Abdou Diallo
+04.2018,2018-04-04,21,"10,00",10000000,€,Mio.,39,1.FSV Mainz 05,1.FSV Mainz 05,https://tmssl.akamaized.net/images/wappen/medium/39.png?lm=1564748880,17/18,Abdou Diallo
+12.2017,2017-12-28,21,"8,00",8000000,€,Mio.,39,1.FSV Mainz 05,1.FSV Mainz 05,https://tmssl.akamaized.net/images/wappen/medium/39.png?lm=1564748880,17/18,Abdou Diallo
+10.2017,2017-10-18,21,"4,50",4500000,€,Mio.,39,1.FSV Mainz 05,1.FSV Mainz 05,https://tmssl.akamaized.net/images/wappen/medium/39.png?lm=1564748880,17/18,Abdou Diallo
+06.2017,2017-06-01,21,"1,00",1000000,€,Mio.,162,AS Monaco,AS Monaco,https://tmssl.akamaized.net/images/wappen/medium/162.png?lm=1654781919,16/17,Abdou Diallo
+01.2017,2017-01-16,20,"1,00",1000000,€,Mio.,162,AS Monaco,AS Monaco,https://tmssl.akamaized.net/images/wappen/medium/162.png?lm=1654781919,16/17,Abdou Diallo
+07.2016,2016-07-13,20,"1,20",1200000,€,Mio.,162,AS Monaco,AS Monaco,https://tmssl.akamaized.net/images/wappen/medium/162.png?lm=1654781919,16/17,Abdou Diallo
+04.2016,2016-04-14,19,"1,20",1200000,€,Mio.,3508,SV Zulte Waregem,Zulte Waregem,https://tmssl.akamaized.net/images/wappen/medium/3508.png?lm=1420103130,15/16,Abdou Diallo
+02.2016,2016-02-07,19,800,800000,€,Tsd.,3508,SV Zulte Waregem,Zulte Waregem,https://tmssl.akamaized.net/images/wappen/medium/3508.png?lm=1420103130,15/16,Abdou Diallo
+10.2015,2015-10-22,19,800,800000,€,Tsd.,3508,SV Zulte Waregem,Zulte Waregem,https://tmssl.akamaized.net/images/wappen/medium/3508.png?lm=1420103130,15/16,Abdou Diallo
+06.2015,2015-06-06,19,500,500000,€,Tsd.,162,AS Monaco,AS Monaco,https://tmssl.akamaized.net/images/wappen/medium/162.png?lm=1654781919,14/15,Abdou Diallo
+01.2015,2015-01-14,18,250,250000,€,Tsd.,162,AS Monaco,AS Monaco,https://tmssl.akamaized.net/images/wappen/medium/162.png?lm=1654781919,14/15,Abdou Diallo
+11.2014,2014-11-20,18,150,150000,€,Tsd.,162,AS Monaco,AS Monaco,https://tmssl.akamaized.net/images/wappen/medium/162.png?lm=1654781919,14/15,Abdou Diallo

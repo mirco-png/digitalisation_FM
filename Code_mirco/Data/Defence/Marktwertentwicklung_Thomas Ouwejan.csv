@@ -1,0 +1,19 @@
+date,unformattedDate,age,marketValue,marketValueUnformatted,marketValueCurrency,marketValueNumeral,clubID,clubName,clubShortName,clubImage,seasonID,Name
+11.2022,2022-11-09,26,"2,50",2500000,€,Mio.,33,FC Schalke 04,FC Schalke 04,https://tmssl.akamaized.net/images/wappen/medium/33.png?lm=1656580846,22/23,Thomas Ouwejan
+06.2022,2022-06-16,25,"2,50",2500000,€,Mio.,33,FC Schalke 04,FC Schalke 04,https://tmssl.akamaized.net/images/wappen/medium/33.png?lm=1656580846,21/22,Thomas Ouwejan
+12.2021,2021-12-15,25,"2,50",2500000,€,Mio.,33,FC Schalke 04,FC Schalke 04,https://tmssl.akamaized.net/images/wappen/medium/33.png?lm=1656580846,21/22,Thomas Ouwejan
+06.2021,2021-06-03,24,"2,00",2000000,€,Mio.,410,Udinese Calcio,Udinese Calcio,https://tmssl.akamaized.net/images/wappen/medium/410.png?lm=1437136398,20/21,Thomas Ouwejan
+12.2020,2020-12-29,24,"2,50",2500000,€,Mio.,410,Udinese Calcio,Udinese Calcio,https://tmssl.akamaized.net/images/wappen/medium/410.png?lm=1437136398,20/21,Thomas Ouwejan
+10.2020,2020-10-29,24,"2,50",2500000,€,Mio.,410,Udinese Calcio,Udinese Calcio,https://tmssl.akamaized.net/images/wappen/medium/410.png?lm=1437136398,20/21,Thomas Ouwejan
+04.2020,2020-04-08,23,"2,40",2400000,€,Mio.,1090,AZ Alkmaar,AZ Alkmaar,https://tmssl.akamaized.net/images/wappen/medium/1090.png?lm=1586848339,19/20,Thomas Ouwejan
+12.2019,2019-12-18,23,"3,00",3000000,€,Mio.,1090,AZ Alkmaar,AZ Alkmaar,https://tmssl.akamaized.net/images/wappen/medium/1090.png?lm=1586848339,19/20,Thomas Ouwejan
+06.2019,2019-06-12,22,"3,00",3000000,€,Mio.,1090,AZ Alkmaar,AZ Alkmaar,https://tmssl.akamaized.net/images/wappen/medium/1090.png?lm=1586848339,18/19,Thomas Ouwejan
+12.2018,2018-12-28,22,"3,00",3000000,€,Mio.,1090,AZ Alkmaar,AZ Alkmaar,https://tmssl.akamaized.net/images/wappen/medium/1090.png?lm=1586848339,18/19,Thomas Ouwejan
+06.2018,2018-06-12,21,"2,50",2500000,€,Mio.,1090,AZ Alkmaar,AZ Alkmaar,https://tmssl.akamaized.net/images/wappen/medium/1090.png?lm=1586848339,17/18,Thomas Ouwejan
+01.2018,2018-01-17,21,"1,50",1500000,€,Mio.,1090,AZ Alkmaar,AZ Alkmaar,https://tmssl.akamaized.net/images/wappen/medium/1090.png?lm=1586848339,17/18,Thomas Ouwejan
+10.2017,2017-10-26,21,750,750000,€,Tsd.,1090,AZ Alkmaar,AZ Alkmaar,https://tmssl.akamaized.net/images/wappen/medium/1090.png?lm=1586848339,17/18,Thomas Ouwejan
+06.2017,2017-06-07,20,400,400000,€,Tsd.,1090,AZ Alkmaar,AZ Alkmaar,https://tmssl.akamaized.net/images/wappen/medium/1090.png?lm=1586848339,16/17,Thomas Ouwejan
+01.2017,2017-01-18,20,400,400000,€,Tsd.,1090,AZ Alkmaar,AZ Alkmaar,https://tmssl.akamaized.net/images/wappen/medium/1090.png?lm=1586848339,16/17,Thomas Ouwejan
+07.2016,2016-07-15,19,250,250000,€,Tsd.,1090,AZ Alkmaar,AZ Alkmaar,https://tmssl.akamaized.net/images/wappen/medium/1090.png?lm=1586848339,16/17,Thomas Ouwejan
+02.2016,2016-02-05,19,150,150000,€,Tsd.,1090,AZ Alkmaar,AZ Alkmaar,https://tmssl.akamaized.net/images/wappen/medium/1090.png?lm=1586848339,15/16,Thomas Ouwejan
+12.2015,2015-12-10,19,50,50000,€,Tsd.,1090,AZ Alkmaar,AZ Alkmaar,https://tmssl.akamaized.net/images/wappen/medium/1090.png?lm=1586848339,15/16,Thomas Ouwejan

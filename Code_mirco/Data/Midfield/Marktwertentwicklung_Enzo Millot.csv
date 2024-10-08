@@ -1,0 +1,9 @@
+date,unformattedDate,age,marketValue,marketValueUnformatted,marketValueCurrency,marketValueNumeral,clubID,clubName,clubShortName,clubImage,seasonID,Name
+11.2022,2022-11-09,20,"2,50",2500000,€,Mio.,79,VfB Stuttgart,VfB Stuttgart,https://tmssl.akamaized.net/images/wappen/medium/79.png?lm=1656582657,22/23,Enzo Millot
+06.2022,2022-06-09,19,"2,00",2000000,€,Mio.,79,VfB Stuttgart,VfB Stuttgart,https://tmssl.akamaized.net/images/wappen/medium/79.png?lm=1656582657,21/22,Enzo Millot
+12.2021,2021-12-22,19,"2,00",2000000,€,Mio.,79,VfB Stuttgart,VfB Stuttgart,https://tmssl.akamaized.net/images/wappen/medium/79.png?lm=1656582657,21/22,Enzo Millot
+10.2021,2021-10-07,19,"2,00",2000000,€,Mio.,79,VfB Stuttgart,VfB Stuttgart,https://tmssl.akamaized.net/images/wappen/medium/79.png?lm=1656582657,21/22,Enzo Millot
+06.2021,2021-06-04,18,"1,00",1000000,€,Mio.,162,AS Monaco,AS Monaco,https://tmssl.akamaized.net/images/wappen/medium/162.png?lm=1654781919,20/21,Enzo Millot
+01.2021,2021-01-07,18,"1,00",1000000,€,Mio.,162,AS Monaco,AS Monaco,https://tmssl.akamaized.net/images/wappen/medium/162.png?lm=1654781919,20/21,Enzo Millot
+10.2020,2020-10-12,18,500,500000,€,Tsd.,162,AS Monaco,AS Monaco,https://tmssl.akamaized.net/images/wappen/medium/162.png?lm=1654781919,20/21,Enzo Millot
+09.2019,2019-09-27,17,150,150000,€,Tsd.,9668,AS Monaco U21,AS Monaco U21,https://tmssl.akamaized.net/images/wappen/medium/9668.png?lm=1654781919,19/20,Enzo Millot

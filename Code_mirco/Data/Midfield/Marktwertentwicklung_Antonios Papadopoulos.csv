@@ -1,0 +1,16 @@
+date,unformattedDate,age,marketValue,marketValueUnformatted,marketValueCurrency,marketValueNumeral,clubID,clubName,clubShortName,clubImage,seasonID,Name
+12.2022,2022-12-08,23,600,600000,€,Tsd.,17,Borussia Dortmund II,B. Dortmund II,https://tmssl.akamaized.net/images/wappen/medium/17.png?lm=1396275305,22/23,Antonios Papadopoulos
+10.2022,2022-10-05,23,450,450000,€,Tsd.,17,Borussia Dortmund II,B. Dortmund II,https://tmssl.akamaized.net/images/wappen/medium/17.png?lm=1396275305,22/23,Antonios Papadopoulos
+06.2022,2022-06-01,22,350,350000,€,Tsd.,17,Borussia Dortmund II,B. Dortmund II,https://tmssl.akamaized.net/images/wappen/medium/17.png?lm=1396275305,21/22,Antonios Papadopoulos
+12.2021,2021-12-30,22,300,300000,€,Tsd.,17,Borussia Dortmund II,B. Dortmund II,https://tmssl.akamaized.net/images/wappen/medium/17.png?lm=1396275305,21/22,Antonios Papadopoulos
+10.2021,2021-10-11,22,300,300000,€,Tsd.,17,Borussia Dortmund II,B. Dortmund II,https://tmssl.akamaized.net/images/wappen/medium/17.png?lm=1396275305,21/22,Antonios Papadopoulos
+06.2021,2021-06-14,21,250,250000,€,Tsd.,440,Hallescher FC,Hallescher FC,https://tmssl.akamaized.net/images/wappen/medium/440.png?lm=1403258915,20/21,Antonios Papadopoulos
+01.2021,2021-01-20,21,250,250000,€,Tsd.,440,Hallescher FC,Hallescher FC,https://tmssl.akamaized.net/images/wappen/medium/440.png?lm=1403258915,20/21,Antonios Papadopoulos
+07.2020,2020-07-17,20,200,200000,€,Tsd.,440,Hallescher FC,Hallescher FC,https://tmssl.akamaized.net/images/wappen/medium/440.png?lm=1403258915,20/21,Antonios Papadopoulos
+12.2019,2019-12-11,20,200,200000,€,Tsd.,440,Hallescher FC,Hallescher FC,https://tmssl.akamaized.net/images/wappen/medium/440.png?lm=1403258915,19/20,Antonios Papadopoulos
+06.2019,2019-06-14,19,150,150000,€,Tsd.,83,VfR Aalen,VfR Aalen,https://tmssl.akamaized.net/images/wappen/medium/83.png?lm=1403085628,18/19,Antonios Papadopoulos
+03.2019,2019-03-15,19,100,100000,€,Tsd.,83,VfR Aalen,VfR Aalen,https://tmssl.akamaized.net/images/wappen/medium/83.png?lm=1403085628,18/19,Antonios Papadopoulos
+01.2019,2019-01-15,19,50,50000,€,Tsd.,83,VfR Aalen,VfR Aalen,https://tmssl.akamaized.net/images/wappen/medium/83.png?lm=1403085628,18/19,Antonios Papadopoulos
+06.2018,2018-06-08,18,50,50000,€,Tsd.,10169,VfR Aalen U19,VfR Aalen U19,https://tmssl.akamaized.net/images/wappen/medium/10169.png?lm=1403085628,17/18,Antonios Papadopoulos
+01.2018,2018-01-14,18,50,50000,€,Tsd.,10169,VfR Aalen U19,VfR Aalen U19,https://tmssl.akamaized.net/images/wappen/medium/10169.png?lm=1403085628,17/18,Antonios Papadopoulos
+07.2017,2017-07-01,17,50,50000,€,Tsd.,10169,VfR Aalen U19,VfR Aalen U19,https://tmssl.akamaized.net/images/wappen/medium/10169.png?lm=1403085628,17/18,Antonios Papadopoulos

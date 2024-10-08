@@ -1,0 +1,4 @@
+date,unformattedDate,age,marketValue,marketValueUnformatted,marketValueCurrency,marketValueNumeral,clubID,clubName,clubShortName,clubImage,seasonID,Name
+11.2022,2022-11-09,17,"1,00",1000000,€,Mio.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,22/23,Fabio Chiarodia
+06.2022,2022-06-16,17,500,500000,€,Tsd.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,21/22,Fabio Chiarodia
+12.2021,2021-12-15,16,500,500000,€,Tsd.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,21/22,Fabio Chiarodia

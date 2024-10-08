@@ -1,0 +1,23 @@
+date,unformattedDate,age,marketValue,marketValueUnformatted,marketValueCurrency,marketValueNumeral,clubID,clubName,clubShortName,clubImage,seasonID,Name
+11.2022,2022-11-09,24,"4,50",4500000,€,Mio.,33,FC Schalke 04,FC Schalke 04,https://tmssl.akamaized.net/images/wappen/medium/33.png?lm=1656580846,22/23,Alex Kral
+09.2022,2022-09-21,24,"5,50",5500000,€,Mio.,33,FC Schalke 04,FC Schalke 04,https://tmssl.akamaized.net/images/wappen/medium/33.png?lm=1656580846,22/23,Alex Kral
+06.2022,2022-06-15,24,"7,00",7000000,€,Mio.,379,West Ham United,West Ham Utd.,https://tmssl.akamaized.net/images/wappen/medium/379.png?lm=1464675260,21/22,Alex Kral
+03.2022,2022-03-29,23,"7,00",7000000,€,Mio.,379,West Ham United,West Ham Utd.,https://tmssl.akamaized.net/images/wappen/medium/379.png?lm=1464675260,21/22,Alex Kral
+12.2021,2021-12-23,23,"8,00",8000000,€,Mio.,379,West Ham United,West Ham Utd.,https://tmssl.akamaized.net/images/wappen/medium/379.png?lm=1464675260,21/22,Alex Kral
+05.2021,2021-05-28,23,"10,00",10000000,€,Mio.,232,Spartak Moskau,Spartak Moskau,https://tmssl.akamaized.net/images/wappen/medium/232.png?lm=1645543288,20/21,Alex Kral
+12.2020,2020-12-29,22,"9,00",9000000,€,Mio.,232,Spartak Moskau,Spartak Moskau,https://tmssl.akamaized.net/images/wappen/medium/232.png?lm=1645543288,20/21,Alex Kral
+10.2020,2020-10-19,22,"8,00",8000000,€,Mio.,232,Spartak Moskau,Spartak Moskau,https://tmssl.akamaized.net/images/wappen/medium/232.png?lm=1645543288,20/21,Alex Kral
+07.2020,2020-07-29,22,"7,50",7500000,€,Mio.,232,Spartak Moskau,Spartak Moskau,https://tmssl.akamaized.net/images/wappen/medium/232.png?lm=1645543288,20/21,Alex Kral
+04.2020,2020-04-08,21,"6,70",6700000,€,Mio.,232,Spartak Moskau,Spartak Moskau,https://tmssl.akamaized.net/images/wappen/medium/232.png?lm=1645543288,19/20,Alex Kral
+12.2019,2019-12-23,21,"7,50",7500000,€,Mio.,232,Spartak Moskau,Spartak Moskau,https://tmssl.akamaized.net/images/wappen/medium/232.png?lm=1645543288,19/20,Alex Kral
+09.2019,2019-09-10,21,"6,00",6000000,€,Mio.,232,Spartak Moskau,Spartak Moskau,https://tmssl.akamaized.net/images/wappen/medium/232.png?lm=1645543288,19/20,Alex Kral
+06.2019,2019-06-25,21,"3,50",3500000,€,Mio.,62,SK Slavia Prag,Slavia Prag,https://tmssl.akamaized.net/images/wappen/medium/62.png?lm=1659955223,18/19,Alex Kral
+04.2019,2019-04-30,20,"1,50",1500000,€,Mio.,62,SK Slavia Prag,Slavia Prag,https://tmssl.akamaized.net/images/wappen/medium/62.png?lm=1659955223,18/19,Alex Kral
+12.2018,2018-12-30,20,800,800000,€,Tsd.,814,FK Teplice,FK Teplice,https://tmssl.akamaized.net/images/wappen/medium/814.png?lm=1419784933,18/19,Alex Kral
+10.2018,2018-10-29,20,600,600000,€,Tsd.,814,FK Teplice,FK Teplice,https://tmssl.akamaized.net/images/wappen/medium/814.png?lm=1419784933,18/19,Alex Kral
+07.2018,2018-07-14,20,550,550000,€,Tsd.,814,FK Teplice,FK Teplice,https://tmssl.akamaized.net/images/wappen/medium/814.png?lm=1419784933,18/19,Alex Kral
+12.2017,2017-12-21,19,450,450000,€,Tsd.,814,FK Teplice,FK Teplice,https://tmssl.akamaized.net/images/wappen/medium/814.png?lm=1419784933,17/18,Alex Kral
+10.2017,2017-10-07,19,300,300000,€,Tsd.,814,FK Teplice,FK Teplice,https://tmssl.akamaized.net/images/wappen/medium/814.png?lm=1419784933,17/18,Alex Kral
+06.2017,2017-06-10,19,150,150000,€,Tsd.,814,FK Teplice,FK Teplice,https://tmssl.akamaized.net/images/wappen/medium/814.png?lm=1419784933,16/17,Alex Kral
+04.2017,2017-04-15,18,100,100000,€,Tsd.,814,FK Teplice,FK Teplice,https://tmssl.akamaized.net/images/wappen/medium/814.png?lm=1419784933,16/17,Alex Kral
+10.2016,2016-10-21,18,75,75000,€,Tsd.,6541,SK Slavia Prag B,Slavia Prag B,https://tmssl.akamaized.net/images/wappen/medium/6541.png?lm=1659955223,16/17,Alex Kral

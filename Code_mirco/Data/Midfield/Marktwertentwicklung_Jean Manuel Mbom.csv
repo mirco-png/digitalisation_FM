@@ -1,0 +1,15 @@
+date,unformattedDate,age,marketValue,marketValueUnformatted,marketValueCurrency,marketValueNumeral,clubID,clubName,clubShortName,clubImage,seasonID,Name
+11.2022,2022-11-09,22,"1,50",1500000,€,Mio.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,22/23,Jean Manuel Mbom
+06.2022,2022-06-16,22,"1,50",1500000,€,Mio.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,21/22,Jean Manuel Mbom
+03.2022,2022-03-23,22,"2,00",2000000,€,Mio.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,21/22,Jean Manuel Mbom
+12.2021,2021-12-15,21,"2,50",2500000,€,Mio.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,21/22,Jean Manuel Mbom
+06.2021,2021-06-09,21,"3,00",3000000,€,Mio.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,20/21,Jean Manuel Mbom
+02.2021,2021-02-10,20,"3,00",3000000,€,Mio.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,20/21,Jean Manuel Mbom
+11.2020,2020-11-26,20,"2,00",2000000,€,Mio.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,20/21,Jean Manuel Mbom
+07.2020,2020-07-05,20,450,450000,€,Tsd.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,20/21,Jean Manuel Mbom
+04.2020,2020-04-08,20,450,450000,€,Tsd.,95,KFC Uerdingen 05,KFC Uerdingen,https://tmssl.akamaized.net/images/wappen/medium/95.png?lm=1489161258,19/20,Jean Manuel Mbom
+12.2019,2019-12-11,19,500,500000,€,Tsd.,95,KFC Uerdingen 05,KFC Uerdingen,https://tmssl.akamaized.net/images/wappen/medium/95.png?lm=1489161258,19/20,Jean Manuel Mbom
+09.2019,2019-09-23,19,500,500000,€,Tsd.,95,KFC Uerdingen 05,KFC Uerdingen,https://tmssl.akamaized.net/images/wappen/medium/95.png?lm=1489161258,19/20,Jean Manuel Mbom
+06.2019,2019-06-05,19,200,200000,€,Tsd.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,18/19,Jean Manuel Mbom
+12.2018,2018-12-18,18,200,200000,€,Tsd.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,18/19,Jean Manuel Mbom
+07.2018,2018-07-05,18,200,200000,€,Tsd.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,18/19,Jean Manuel Mbom

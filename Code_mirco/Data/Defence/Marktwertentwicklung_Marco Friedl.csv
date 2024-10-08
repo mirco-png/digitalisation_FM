@@ -1,0 +1,17 @@
+date,unformattedDate,age,marketValue,marketValueUnformatted,marketValueCurrency,marketValueNumeral,clubID,clubName,clubShortName,clubImage,seasonID,Name
+11.2022,2022-11-09,24,"6,50",6500000,€,Mio.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,22/23,Marco Friedl
+06.2022,2022-06-16,24,"5,00",5000000,€,Mio.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,21/22,Marco Friedl
+12.2021,2021-12-15,23,"3,50",3500000,€,Mio.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,21/22,Marco Friedl
+10.2021,2021-10-13,23,"4,50",4500000,€,Mio.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,21/22,Marco Friedl
+05.2021,2021-05-27,23,"7,50",7500000,€,Mio.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,20/21,Marco Friedl
+02.2021,2021-02-10,22,"7,50",7500000,€,Mio.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,20/21,Marco Friedl
+11.2020,2020-11-26,22,"5,50",5500000,€,Mio.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,20/21,Marco Friedl
+04.2020,2020-04-08,22,"3,20",3200000,€,Mio.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,19/20,Marco Friedl
+12.2019,2019-12-17,21,"3,50",3500000,€,Mio.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,19/20,Marco Friedl
+10.2019,2019-10-02,21,"3,50",3500000,€,Mio.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,19/20,Marco Friedl
+06.2019,2019-06-05,21,"2,50",2500000,€,Mio.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,18/19,Marco Friedl
+12.2018,2018-12-18,20,"1,50",1500000,€,Mio.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,18/19,Marco Friedl
+06.2018,2018-06-05,20,"1,50",1500000,€,Mio.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,17/18,Marco Friedl
+12.2017,2017-12-28,19,750,750000,€,Tsd.,27,FC Bayern München,Bayern München,https://tmssl.akamaized.net/images/wappen/medium/27.png?lm=1498251238,17/18,Marco Friedl
+10.2017,2017-10-18,19,250,250000,€,Tsd.,27,FC Bayern München,Bayern München,https://tmssl.akamaized.net/images/wappen/medium/27.png?lm=1498251238,17/18,Marco Friedl
+07.2017,2017-07-12,19,100,100000,€,Tsd.,27,FC Bayern München,Bayern München,https://tmssl.akamaized.net/images/wappen/medium/27.png?lm=1498251238,17/18,Marco Friedl

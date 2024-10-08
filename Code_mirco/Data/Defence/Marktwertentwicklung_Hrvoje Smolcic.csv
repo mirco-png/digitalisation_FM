@@ -1,0 +1,11 @@
+date,unformattedDate,age,marketValue,marketValueUnformatted,marketValueCurrency,marketValueNumeral,clubID,clubName,clubShortName,clubImage,seasonID,Name
+11.2022,2022-11-09,22,"3,00",3000000,€,Mio.,24,Eintracht Frankfurt,E. Frankfurt,https://tmssl.akamaized.net/images/wappen/medium/24.png?lm=1403806187,22/23,Hrvoje Smolcic
+06.2022,2022-06-06,21,"3,00",3000000,€,Mio.,144,HNK Rijeka,HNK Rijeka,https://tmssl.akamaized.net/images/wappen/medium/144.png?lm=1582550780,21/22,Hrvoje Smolcic
+12.2021,2021-12-30,21,"3,00",3000000,€,Mio.,144,HNK Rijeka,HNK Rijeka,https://tmssl.akamaized.net/images/wappen/medium/144.png?lm=1582550780,21/22,Hrvoje Smolcic
+06.2021,2021-06-10,20,"1,20",1200000,€,Mio.,144,HNK Rijeka,HNK Rijeka,https://tmssl.akamaized.net/images/wappen/medium/144.png?lm=1582550780,20/21,Hrvoje Smolcic
+12.2020,2020-12-28,20,"1,20",1200000,€,Mio.,144,HNK Rijeka,HNK Rijeka,https://tmssl.akamaized.net/images/wappen/medium/144.png?lm=1582550780,20/21,Hrvoje Smolcic
+07.2020,2020-07-27,19,900,900000,€,Tsd.,144,HNK Rijeka,HNK Rijeka,https://tmssl.akamaized.net/images/wappen/medium/144.png?lm=1582550780,20/21,Hrvoje Smolcic
+04.2020,2020-04-08,19,775,775000,€,Tsd.,144,HNK Rijeka,HNK Rijeka,https://tmssl.akamaized.net/images/wappen/medium/144.png?lm=1582550780,19/20,Hrvoje Smolcic
+12.2019,2019-12-27,19,850,850000,€,Tsd.,144,HNK Rijeka,HNK Rijeka,https://tmssl.akamaized.net/images/wappen/medium/144.png?lm=1582550780,19/20,Hrvoje Smolcic
+09.2019,2019-09-16,19,150,150000,€,Tsd.,144,HNK Rijeka,HNK Rijeka,https://tmssl.akamaized.net/images/wappen/medium/144.png?lm=1582550780,19/20,Hrvoje Smolcic
+03.2019,2019-03-11,18,50,50000,€,Tsd.,144,HNK Rijeka,HNK Rijeka,https://tmssl.akamaized.net/images/wappen/medium/144.png?lm=1582550780,18/19,Hrvoje Smolcic

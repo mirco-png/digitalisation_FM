@@ -1,0 +1,11 @@
+date,unformattedDate,age,marketValue,marketValueUnformatted,marketValueCurrency,marketValueNumeral,clubID,clubName,clubShortName,clubImage,seasonID,Name
+11.2022,2022-11-09,21,"2,50",2500000,€,Mio.,33,FC Schalke 04,FC Schalke 04,https://tmssl.akamaized.net/images/wappen/medium/33.png?lm=1656580846,22/23,Leo Greiml
+05.2022,2022-05-27,20,"2,50",2500000,€,Mio.,170,SK Rapid Wien,Rapid Wien,https://tmssl.akamaized.net/images/wappen/medium/170.png?lm=1653663056,21/22,Leo Greiml
+12.2021,2021-12-16,20,"2,50",2500000,€,Mio.,170,SK Rapid Wien,Rapid Wien,https://tmssl.akamaized.net/images/wappen/medium/170.png?lm=1653663056,21/22,Leo Greiml
+09.2021,2021-09-06,20,"2,50",2500000,€,Mio.,170,SK Rapid Wien,Rapid Wien,https://tmssl.akamaized.net/images/wappen/medium/170.png?lm=1653663056,21/22,Leo Greiml
+06.2021,2021-06-02,19,"1,80",1800000,€,Mio.,170,SK Rapid Wien,Rapid Wien,https://tmssl.akamaized.net/images/wappen/medium/170.png?lm=1653663056,20/21,Leo Greiml
+12.2020,2020-12-21,19,"1,50",1500000,€,Mio.,170,SK Rapid Wien,Rapid Wien,https://tmssl.akamaized.net/images/wappen/medium/170.png?lm=1653663056,20/21,Leo Greiml
+10.2020,2020-10-12,19,"1,50",1500000,€,Mio.,170,SK Rapid Wien,Rapid Wien,https://tmssl.akamaized.net/images/wappen/medium/170.png?lm=1653663056,20/21,Leo Greiml
+07.2020,2020-07-22,19,850,850000,€,Tsd.,170,SK Rapid Wien,Rapid Wien,https://tmssl.akamaized.net/images/wappen/medium/170.png?lm=1653663056,20/21,Leo Greiml
+12.2019,2019-12-16,18,250,250000,€,Tsd.,170,SK Rapid Wien,Rapid Wien,https://tmssl.akamaized.net/images/wappen/medium/170.png?lm=1653663056,19/20,Leo Greiml
+07.2019,2019-07-02,17,250,250000,€,Tsd.,170,SK Rapid Wien,Rapid Wien,https://tmssl.akamaized.net/images/wappen/medium/170.png?lm=1653663056,19/20,Leo Greiml

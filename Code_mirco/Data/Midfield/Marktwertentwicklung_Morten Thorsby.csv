@@ -1,0 +1,25 @@
+date,unformattedDate,age,marketValue,marketValueUnformatted,marketValueCurrency,marketValueNumeral,clubID,clubName,clubShortName,clubImage,seasonID,Name
+11.2022,2022-11-09,26,"7,00",7000000,€,Mio.,89,1.FC Union Berlin,Union Berlin,https://tmssl.akamaized.net/images/wappen/medium/89.png?lm=1402956210,22/23,Morten Thorsby
+06.2022,2022-06-07,26,"7,00",7000000,€,Mio.,1038,Sampdoria Genua,Sampdoria,https://tmssl.akamaized.net/images/wappen/medium/1038.png?lm=1520934353,21/22,Morten Thorsby
+12.2021,2021-12-28,25,"7,00",7000000,€,Mio.,1038,Sampdoria Genua,Sampdoria,https://tmssl.akamaized.net/images/wappen/medium/1038.png?lm=1520934353,21/22,Morten Thorsby
+06.2021,2021-06-03,25,"7,00",7000000,€,Mio.,1038,Sampdoria Genua,Sampdoria,https://tmssl.akamaized.net/images/wappen/medium/1038.png?lm=1520934353,20/21,Morten Thorsby
+12.2020,2020-12-29,24,"5,00",5000000,€,Mio.,1038,Sampdoria Genua,Sampdoria,https://tmssl.akamaized.net/images/wappen/medium/1038.png?lm=1520934353,20/21,Morten Thorsby
+08.2020,2020-08-25,24,"2,50",2500000,€,Mio.,1038,Sampdoria Genua,Sampdoria,https://tmssl.akamaized.net/images/wappen/medium/1038.png?lm=1520934353,20/21,Morten Thorsby
+04.2020,2020-04-08,23,"2,00",2000000,€,Mio.,1038,Sampdoria Genua,Sampdoria,https://tmssl.akamaized.net/images/wappen/medium/1038.png?lm=1520934353,19/20,Morten Thorsby
+12.2019,2019-12-12,23,"2,50",2500000,€,Mio.,1038,Sampdoria Genua,Sampdoria,https://tmssl.akamaized.net/images/wappen/medium/1038.png?lm=1520934353,19/20,Morten Thorsby
+06.2019,2019-06-12,23,"2,50",2500000,€,Mio.,306,SC Heerenveen,SC Heerenveen,https://tmssl.akamaized.net/images/wappen/medium/306.png?lm=1655978084,18/19,Morten Thorsby
+12.2018,2018-12-28,22,"2,50",2500000,€,Mio.,306,SC Heerenveen,SC Heerenveen,https://tmssl.akamaized.net/images/wappen/medium/306.png?lm=1655978084,18/19,Morten Thorsby
+10.2018,2018-10-04,22,"3,00",3000000,€,Mio.,306,SC Heerenveen,SC Heerenveen,https://tmssl.akamaized.net/images/wappen/medium/306.png?lm=1655978084,18/19,Morten Thorsby
+06.2018,2018-06-12,22,"2,00",2000000,€,Mio.,306,SC Heerenveen,SC Heerenveen,https://tmssl.akamaized.net/images/wappen/medium/306.png?lm=1655978084,17/18,Morten Thorsby
+01.2018,2018-01-17,21,"2,00",2000000,€,Mio.,306,SC Heerenveen,SC Heerenveen,https://tmssl.akamaized.net/images/wappen/medium/306.png?lm=1655978084,17/18,Morten Thorsby
+10.2017,2017-10-26,21,"2,00",2000000,€,Mio.,306,SC Heerenveen,SC Heerenveen,https://tmssl.akamaized.net/images/wappen/medium/306.png?lm=1655978084,17/18,Morten Thorsby
+06.2017,2017-06-07,21,"1,25",1250000,€,Mio.,306,SC Heerenveen,SC Heerenveen,https://tmssl.akamaized.net/images/wappen/medium/306.png?lm=1655978084,16/17,Morten Thorsby
+01.2017,2017-01-18,20,"1,50",1500000,€,Mio.,306,SC Heerenveen,SC Heerenveen,https://tmssl.akamaized.net/images/wappen/medium/306.png?lm=1655978084,16/17,Morten Thorsby
+07.2016,2016-07-15,20,"1,50",1500000,€,Mio.,306,SC Heerenveen,SC Heerenveen,https://tmssl.akamaized.net/images/wappen/medium/306.png?lm=1655978084,16/17,Morten Thorsby
+04.2016,2016-04-08,19,"1,25",1250000,€,Mio.,306,SC Heerenveen,SC Heerenveen,https://tmssl.akamaized.net/images/wappen/medium/306.png?lm=1655978084,15/16,Morten Thorsby
+02.2016,2016-02-05,19,800,800000,€,Tsd.,306,SC Heerenveen,SC Heerenveen,https://tmssl.akamaized.net/images/wappen/medium/306.png?lm=1655978084,15/16,Morten Thorsby
+07.2015,2015-07-01,19,450,450000,€,Tsd.,306,SC Heerenveen,SC Heerenveen,https://tmssl.akamaized.net/images/wappen/medium/306.png?lm=1655978084,15/16,Morten Thorsby
+02.2015,2015-02-16,18,250,250000,€,Tsd.,306,SC Heerenveen,SC Heerenveen,https://tmssl.akamaized.net/images/wappen/medium/306.png?lm=1655978084,14/15,Morten Thorsby
+11.2014,2014-11-02,18,750,750000,€,Tsd.,306,SC Heerenveen,SC Heerenveen,https://tmssl.akamaized.net/images/wappen/medium/306.png?lm=1655978084,14/15,Morten Thorsby
+08.2014,2014-08-11,18,500,500000,€,Tsd.,306,SC Heerenveen,SC Heerenveen,https://tmssl.akamaized.net/images/wappen/medium/306.png?lm=1655978084,14/15,Morten Thorsby
+12.2013,2013-12-02,17,50,50000,€,Tsd.,1274,Stabæk Fotball,Stabæk Fotball,https://tmssl.akamaized.net/images/wappen/medium/1274.png?lm=1423572768,13/14,Morten Thorsby

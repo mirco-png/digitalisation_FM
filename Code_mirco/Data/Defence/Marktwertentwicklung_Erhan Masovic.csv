@@ -1,0 +1,17 @@
+date,unformattedDate,age,marketValue,marketValueUnformatted,marketValueCurrency,marketValueNumeral,clubID,clubName,clubShortName,clubImage,seasonID,Name
+11.2022,2022-11-09,23,"4,00",4000000,€,Mio.,80,VfL Bochum,VfL Bochum,https://tmssl.akamaized.net/images/wappen/medium/80.png?lm=1656583090,22/23,Erhan Masovic
+09.2022,2022-09-21,23,"3,50",3500000,€,Mio.,80,VfL Bochum,VfL Bochum,https://tmssl.akamaized.net/images/wappen/medium/80.png?lm=1656583090,22/23,Erhan Masovic
+06.2022,2022-06-09,23,"2,50",2500000,€,Mio.,80,VfL Bochum,VfL Bochum,https://tmssl.akamaized.net/images/wappen/medium/80.png?lm=1656583090,21/22,Erhan Masovic
+12.2021,2021-12-22,23,"2,50",2500000,€,Mio.,80,VfL Bochum,VfL Bochum,https://tmssl.akamaized.net/images/wappen/medium/80.png?lm=1656583090,21/22,Erhan Masovic
+10.2021,2021-10-07,22,700,700000,€,Tsd.,80,VfL Bochum,VfL Bochum,https://tmssl.akamaized.net/images/wappen/medium/80.png?lm=1656583090,21/22,Erhan Masovic
+06.2021,2021-06-16,22,300,300000,€,Tsd.,80,VfL Bochum,VfL Bochum,https://tmssl.akamaized.net/images/wappen/medium/80.png?lm=1656583090,20/21,Erhan Masovic
+02.2021,2021-02-08,22,300,300000,€,Tsd.,80,VfL Bochum,VfL Bochum,https://tmssl.akamaized.net/images/wappen/medium/80.png?lm=1656583090,20/21,Erhan Masovic
+07.2020,2020-07-30,21,250,250000,€,Tsd.,2414,AC Horsens,AC Horsens,https://tmssl.akamaized.net/images/wappen/medium/2414.png?lm=1580920529,20/21,Erhan Masovic
+12.2019,2019-12-22,21,250,250000,€,Tsd.,2414,AC Horsens,AC Horsens,https://tmssl.akamaized.net/images/wappen/medium/2414.png?lm=1580920529,19/20,Erhan Masovic
+06.2019,2019-06-25,20,250,250000,€,Tsd.,7918,AS Trencin,AS Trencin,https://tmssl.akamaized.net/images/wappen/medium/7918.png?lm=1611248006,18/19,Erhan Masovic
+12.2018,2018-12-30,20,350,350000,€,Tsd.,7918,AS Trencin,AS Trencin,https://tmssl.akamaized.net/images/wappen/medium/7918.png?lm=1611248006,18/19,Erhan Masovic
+06.2018,2018-06-03,19,"1,00",1000000,€,Mio.,2282,FC Brügge,FC Brügge,https://tmssl.akamaized.net/images/wappen/medium/2282.png?lm=1448474251,17/18,Erhan Masovic
+01.2018,2018-01-09,19,"1,20",1200000,€,Mio.,2282,FC Brügge,FC Brügge,https://tmssl.akamaized.net/images/wappen/medium/2282.png?lm=1448474251,17/18,Erhan Masovic
+05.2017,2017-05-04,18,"1,50",1500000,€,Mio.,6621,FK Čukarički,Čukarički,https://tmssl.akamaized.net/images/wappen/medium/6621.png?lm=1479507902,16/17,Erhan Masovic
+12.2016,2016-12-18,18,500,500000,€,Tsd.,6621,FK Čukarički,Čukarički,https://tmssl.akamaized.net/images/wappen/medium/6621.png?lm=1479507902,16/17,Erhan Masovic
+05.2016,2016-05-29,17,300,300000,€,Tsd.,6621,FK Čukarički,Čukarički,https://tmssl.akamaized.net/images/wappen/medium/6621.png?lm=1479507902,15/16,Erhan Masovic

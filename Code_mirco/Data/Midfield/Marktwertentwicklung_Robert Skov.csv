@@ -1,0 +1,21 @@
+date,unformattedDate,age,marketValue,marketValueUnformatted,marketValueCurrency,marketValueNumeral,clubID,clubName,clubShortName,clubImage,seasonID,Name
+11.2022,2022-11-09,26,"9,00",9000000,€,Mio.,533,TSG 1899 Hoffenheim,TSG Hoffenheim,https://tmssl.akamaized.net/images/wappen/medium/533.png?lm=1675591766,22/23,Robert Skov
+06.2022,2022-06-09,26,"7,00",7000000,€,Mio.,533,TSG 1899 Hoffenheim,TSG Hoffenheim,https://tmssl.akamaized.net/images/wappen/medium/533.png?lm=1675591766,21/22,Robert Skov
+12.2021,2021-12-22,25,"8,00",8000000,€,Mio.,533,TSG 1899 Hoffenheim,TSG Hoffenheim,https://tmssl.akamaized.net/images/wappen/medium/533.png?lm=1675591766,21/22,Robert Skov
+10.2021,2021-10-07,25,"8,00",8000000,€,Mio.,533,TSG 1899 Hoffenheim,TSG Hoffenheim,https://tmssl.akamaized.net/images/wappen/medium/533.png?lm=1675591766,21/22,Robert Skov
+05.2021,2021-05-26,25,"10,00",10000000,€,Mio.,533,TSG 1899 Hoffenheim,TSG Hoffenheim,https://tmssl.akamaized.net/images/wappen/medium/533.png?lm=1675591766,20/21,Robert Skov
+02.2021,2021-02-10,24,"11,00",11000000,€,Mio.,533,TSG 1899 Hoffenheim,TSG Hoffenheim,https://tmssl.akamaized.net/images/wappen/medium/533.png?lm=1675591766,20/21,Robert Skov
+07.2020,2020-07-08,24,"14,00",14000000,€,Mio.,533,TSG 1899 Hoffenheim,TSG Hoffenheim,https://tmssl.akamaized.net/images/wappen/medium/533.png?lm=1675591766,20/21,Robert Skov
+04.2020,2020-04-08,23,"10,50",10500000,€,Mio.,533,TSG 1899 Hoffenheim,TSG Hoffenheim,https://tmssl.akamaized.net/images/wappen/medium/533.png?lm=1675591766,19/20,Robert Skov
+12.2019,2019-12-17,23,"13,00",13000000,€,Mio.,533,TSG 1899 Hoffenheim,TSG Hoffenheim,https://tmssl.akamaized.net/images/wappen/medium/533.png?lm=1675591766,19/20,Robert Skov
+06.2019,2019-06-08,23,"13,00",13000000,€,Mio.,190,FC Kopenhagen,FC Kopenhagen,https://tmssl.akamaized.net/images/wappen/medium/190.png?lm=1518117389,18/19,Robert Skov
+12.2018,2018-12-21,22,"5,00",5000000,€,Mio.,190,FC Kopenhagen,FC Kopenhagen,https://tmssl.akamaized.net/images/wappen/medium/190.png?lm=1518117389,18/19,Robert Skov
+06.2018,2018-06-02,22,"1,25",1250000,€,Mio.,190,FC Kopenhagen,FC Kopenhagen,https://tmssl.akamaized.net/images/wappen/medium/190.png?lm=1518117389,17/18,Robert Skov
+12.2017,2017-12-18,21,"1,00",1000000,€,Mio.,1177,Silkeborg IF,Silkeborg IF,https://tmssl.akamaized.net/images/wappen/medium/1177.png?lm=1518117733,17/18,Robert Skov
+06.2017,2017-06-21,21,700,700000,€,Tsd.,1177,Silkeborg IF,Silkeborg IF,https://tmssl.akamaized.net/images/wappen/medium/1177.png?lm=1518117733,16/17,Robert Skov
+12.2016,2016-12-12,20,600,600000,€,Tsd.,1177,Silkeborg IF,Silkeborg IF,https://tmssl.akamaized.net/images/wappen/medium/1177.png?lm=1518117733,16/17,Robert Skov
+08.2016,2016-08-12,20,350,350000,€,Tsd.,1177,Silkeborg IF,Silkeborg IF,https://tmssl.akamaized.net/images/wappen/medium/1177.png?lm=1518117733,16/17,Robert Skov
+01.2016,2016-01-25,19,150,150000,€,Tsd.,1177,Silkeborg IF,Silkeborg IF,https://tmssl.akamaized.net/images/wappen/medium/1177.png?lm=1518117733,15/16,Robert Skov
+09.2015,2015-09-02,19,150,150000,€,Tsd.,1177,Silkeborg IF,Silkeborg IF,https://tmssl.akamaized.net/images/wappen/medium/1177.png?lm=1518117733,15/16,Robert Skov
+02.2015,2015-02-06,18,150,150000,€,Tsd.,1177,Silkeborg IF,Silkeborg IF,https://tmssl.akamaized.net/images/wappen/medium/1177.png?lm=1518117733,14/15,Robert Skov
+06.2014,2014-06-26,18,50,50000,€,Tsd.,15642,Silkeborg IF U19,Silkeborg U19,https://tmssl.akamaized.net/images/wappen/medium/15642.png?lm=1518117733,13/14,Robert Skov

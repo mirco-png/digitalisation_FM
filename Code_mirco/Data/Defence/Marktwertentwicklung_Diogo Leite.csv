@@ -1,0 +1,15 @@
+date,unformattedDate,age,marketValue,marketValueUnformatted,marketValueCurrency,marketValueNumeral,clubID,clubName,clubShortName,clubImage,seasonID,Name
+11.2022,2022-11-09,23,"9,00",9000000,€,Mio.,89,1.FC Union Berlin,Union Berlin,https://tmssl.akamaized.net/images/wappen/medium/89.png?lm=1402956210,22/23,Diogo Leite
+05.2022,2022-05-31,23,"7,00",7000000,€,Mio.,1075,SC Braga,SC Braga,https://tmssl.akamaized.net/images/wappen/medium/1075.png?lm=1432893871,21/22,Diogo Leite
+12.2021,2021-12-27,22,"8,00",8000000,€,Mio.,1075,SC Braga,SC Braga,https://tmssl.akamaized.net/images/wappen/medium/1075.png?lm=1432893871,21/22,Diogo Leite
+05.2021,2021-05-21,22,"10,00",10000000,€,Mio.,720,FC Porto,FC Porto,https://tmssl.akamaized.net/images/wappen/medium/720.png?lm=1486310161,20/21,Diogo Leite
+01.2021,2021-01-28,22,"10,00",10000000,€,Mio.,720,FC Porto,FC Porto,https://tmssl.akamaized.net/images/wappen/medium/720.png?lm=1486310161,20/21,Diogo Leite
+08.2020,2020-08-17,21,"8,00",8000000,€,Mio.,720,FC Porto,FC Porto,https://tmssl.akamaized.net/images/wappen/medium/720.png?lm=1486310161,20/21,Diogo Leite
+04.2020,2020-04-08,21,"5,40",5400000,€,Mio.,720,FC Porto,FC Porto,https://tmssl.akamaized.net/images/wappen/medium/720.png?lm=1486310161,19/20,Diogo Leite
+12.2019,2019-12-30,20,"6,00",6000000,€,Mio.,720,FC Porto,FC Porto,https://tmssl.akamaized.net/images/wappen/medium/720.png?lm=1486310161,19/20,Diogo Leite
+06.2019,2019-06-07,20,"5,00",5000000,€,Mio.,10331,FC Porto B,FC Porto B,https://tmssl.akamaized.net/images/wappen/medium/10331.png?lm=1486310161,18/19,Diogo Leite
+01.2019,2019-01-11,19,"5,00",5000000,€,Mio.,10331,FC Porto B,FC Porto B,https://tmssl.akamaized.net/images/wappen/medium/10331.png?lm=1486310161,18/19,Diogo Leite
+11.2018,2018-11-01,19,"6,00",6000000,€,Mio.,10331,FC Porto B,FC Porto B,https://tmssl.akamaized.net/images/wappen/medium/10331.png?lm=1486310161,18/19,Diogo Leite
+06.2018,2018-06-29,19,850,850000,€,Tsd.,10331,FC Porto B,FC Porto B,https://tmssl.akamaized.net/images/wappen/medium/10331.png?lm=1486310161,17/18,Diogo Leite
+02.2018,2018-02-23,19,250,250000,€,Tsd.,10331,FC Porto B,FC Porto B,https://tmssl.akamaized.net/images/wappen/medium/10331.png?lm=1486310161,17/18,Diogo Leite
+09.2017,2017-09-08,18,125,125000,€,Tsd.,10331,FC Porto B,FC Porto B,https://tmssl.akamaized.net/images/wappen/medium/10331.png?lm=1486310161,17/18,Diogo Leite

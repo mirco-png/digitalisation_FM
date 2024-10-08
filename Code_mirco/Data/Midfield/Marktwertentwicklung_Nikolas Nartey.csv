@@ -1,0 +1,15 @@
+date,unformattedDate,age,marketValue,marketValueUnformatted,marketValueCurrency,marketValueNumeral,clubID,clubName,clubShortName,clubImage,seasonID,Name
+11.2022,2022-11-09,22,"1,80",1800000,€,Mio.,79,VfB Stuttgart,VfB Stuttgart,https://tmssl.akamaized.net/images/wappen/medium/79.png?lm=1656582657,22/23,Nikolas Nartey
+06.2022,2022-06-09,22,"1,80",1800000,€,Mio.,79,VfB Stuttgart,VfB Stuttgart,https://tmssl.akamaized.net/images/wappen/medium/79.png?lm=1656582657,21/22,Nikolas Nartey
+12.2021,2021-12-22,21,"1,80",1800000,€,Mio.,79,VfB Stuttgart,VfB Stuttgart,https://tmssl.akamaized.net/images/wappen/medium/79.png?lm=1656582657,21/22,Nikolas Nartey
+06.2021,2021-06-16,21,"1,20",1200000,€,Mio.,254,SV Sandhausen,SV Sandhausen,https://tmssl.akamaized.net/images/wappen/medium/254.png?lm=1605960126,20/21,Nikolas Nartey
+02.2021,2021-02-08,20,800,800000,€,Tsd.,254,SV Sandhausen,SV Sandhausen,https://tmssl.akamaized.net/images/wappen/medium/254.png?lm=1605960126,20/21,Nikolas Nartey
+11.2020,2020-11-18,20,800,800000,€,Tsd.,254,SV Sandhausen,SV Sandhausen,https://tmssl.akamaized.net/images/wappen/medium/254.png?lm=1605960126,20/21,Nikolas Nartey
+07.2020,2020-07-05,20,450,450000,€,Tsd.,79,VfB Stuttgart,VfB Stuttgart,https://tmssl.akamaized.net/images/wappen/medium/79.png?lm=1656582657,20/21,Nikolas Nartey
+04.2020,2020-04-08,20,350,350000,€,Tsd.,30,FC Hansa Rostock,Hansa Rostock,https://tmssl.akamaized.net/images/wappen/medium/30.png?lm=1468311994,19/20,Nikolas Nartey
+12.2019,2019-12-11,19,375,375000,€,Tsd.,30,FC Hansa Rostock,Hansa Rostock,https://tmssl.akamaized.net/images/wappen/medium/30.png?lm=1468311994,19/20,Nikolas Nartey
+06.2019,2019-06-12,19,300,300000,€,Tsd.,3,1.FC Köln,1.FC Köln,https://tmssl.akamaized.net/images/wappen/medium/3.png?lm=1656580823,18/19,Nikolas Nartey
+01.2019,2019-01-08,18,300,300000,€,Tsd.,3,1.FC Köln,1.FC Köln,https://tmssl.akamaized.net/images/wappen/medium/3.png?lm=1656580823,18/19,Nikolas Nartey
+06.2018,2018-06-05,18,300,300000,€,Tsd.,3,1.FC Köln,1.FC Köln,https://tmssl.akamaized.net/images/wappen/medium/3.png?lm=1656580823,17/18,Nikolas Nartey
+12.2017,2017-12-28,17,300,300000,€,Tsd.,3,1.FC Köln,1.FC Köln,https://tmssl.akamaized.net/images/wappen/medium/3.png?lm=1656580823,17/18,Nikolas Nartey
+07.2017,2017-07-01,17,300,300000,€,Tsd.,3,1.FC Köln,1.FC Köln,https://tmssl.akamaized.net/images/wappen/medium/3.png?lm=1656580823,17/18,Nikolas Nartey

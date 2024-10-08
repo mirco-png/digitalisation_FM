@@ -1,0 +1,16 @@
+date,unformattedDate,age,marketValue,marketValueUnformatted,marketValueCurrency,marketValueNumeral,clubID,clubName,clubShortName,clubImage,seasonID,Name
+11.2022,2022-11-09,25,"3,50",3500000,€,Mio.,167,FC Augsburg,FC Augsburg,https://tmssl.akamaized.net/images/wappen/medium/167.png?lm=1656582897,22/23,Elvis Rexhbecaj
+09.2022,2022-09-21,24,"2,50",2500000,€,Mio.,167,FC Augsburg,FC Augsburg,https://tmssl.akamaized.net/images/wappen/medium/167.png?lm=1656582897,22/23,Elvis Rexhbecaj
+06.2022,2022-06-09,24,"4,00",4000000,€,Mio.,80,VfL Bochum,VfL Bochum,https://tmssl.akamaized.net/images/wappen/medium/80.png?lm=1656583090,21/22,Elvis Rexhbecaj
+12.2021,2021-12-22,24,"4,00",4000000,€,Mio.,80,VfL Bochum,VfL Bochum,https://tmssl.akamaized.net/images/wappen/medium/80.png?lm=1656583090,21/22,Elvis Rexhbecaj
+06.2021,2021-06-09,23,"4,00",4000000,€,Mio.,3,1.FC Köln,1.FC Köln,https://tmssl.akamaized.net/images/wappen/medium/3.png?lm=1656580823,20/21,Elvis Rexhbecaj
+02.2021,2021-02-10,23,"4,00",4000000,€,Mio.,3,1.FC Köln,1.FC Köln,https://tmssl.akamaized.net/images/wappen/medium/3.png?lm=1656580823,20/21,Elvis Rexhbecaj
+04.2020,2020-04-08,22,"4,00",4000000,€,Mio.,3,1.FC Köln,1.FC Köln,https://tmssl.akamaized.net/images/wappen/medium/3.png?lm=1656580823,19/20,Elvis Rexhbecaj
+12.2019,2019-12-17,22,"5,00",5000000,€,Mio.,82,VfL Wolfsburg,VfL Wolfsburg,https://tmssl.akamaized.net/images/wappen/medium/82.png?lm=1503060755,19/20,Elvis Rexhbecaj
+06.2019,2019-06-05,21,"8,00",8000000,€,Mio.,82,VfL Wolfsburg,VfL Wolfsburg,https://tmssl.akamaized.net/images/wappen/medium/82.png?lm=1503060755,18/19,Elvis Rexhbecaj
+03.2019,2019-03-06,21,"3,50",3500000,€,Mio.,82,VfL Wolfsburg,VfL Wolfsburg,https://tmssl.akamaized.net/images/wappen/medium/82.png?lm=1503060755,18/19,Elvis Rexhbecaj
+12.2018,2018-12-18,21,"1,50",1500000,€,Mio.,82,VfL Wolfsburg,VfL Wolfsburg,https://tmssl.akamaized.net/images/wappen/medium/82.png?lm=1503060755,18/19,Elvis Rexhbecaj
+12.2017,2017-12-28,20,200,200000,€,Tsd.,82,VfL Wolfsburg,VfL Wolfsburg,https://tmssl.akamaized.net/images/wappen/medium/82.png?lm=1503060755,17/18,Elvis Rexhbecaj
+08.2017,2017-08-02,19,100,100000,€,Tsd.,143,VfL Wolfsburg II (- 2021),Wolfsburg II,https://tmssl.akamaized.net/images/wappen/medium/143.png?lm=1616796625,17/18,Elvis Rexhbecaj
+02.2017,2017-02-05,19,50,50000,€,Tsd.,143,VfL Wolfsburg II (- 2021),Wolfsburg II,https://tmssl.akamaized.net/images/wappen/medium/143.png?lm=1616796625,16/17,Elvis Rexhbecaj
+07.2016,2016-07-27,18,50,50000,€,Tsd.,143,VfL Wolfsburg II (- 2021),Wolfsburg II,https://tmssl.akamaized.net/images/wappen/medium/143.png?lm=1616796625,16/17,Elvis Rexhbecaj

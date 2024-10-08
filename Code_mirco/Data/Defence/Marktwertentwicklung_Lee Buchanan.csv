@@ -1,0 +1,10 @@
+date,unformattedDate,age,marketValue,marketValueUnformatted,marketValueCurrency,marketValueNumeral,clubID,clubName,clubShortName,clubImage,seasonID,Name
+11.2022,2022-11-09,21,"3,50",3500000,€,Mio.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,22/23,Lee Buchanan
+05.2022,2022-05-13,21,"3,50",3500000,€,Mio.,22,Derby County,Derby County,https://tmssl.akamaized.net/images/wappen/medium/22.png?lm=1407654006,21/22,Lee Buchanan
+11.2021,2021-11-24,20,"2,50",2500000,€,Mio.,22,Derby County,Derby County,https://tmssl.akamaized.net/images/wappen/medium/22.png?lm=1407654006,21/22,Lee Buchanan
+06.2021,2021-06-30,20,"2,50",2500000,€,Mio.,22,Derby County,Derby County,https://tmssl.akamaized.net/images/wappen/medium/22.png?lm=1407654006,20/21,Lee Buchanan
+03.2021,2021-03-10,20,"2,00",2000000,€,Mio.,22,Derby County,Derby County,https://tmssl.akamaized.net/images/wappen/medium/22.png?lm=1407654006,20/21,Lee Buchanan
+10.2020,2020-10-15,19,"1,00",1000000,€,Mio.,22,Derby County,Derby County,https://tmssl.akamaized.net/images/wappen/medium/22.png?lm=1407654006,20/21,Lee Buchanan
+04.2020,2020-04-08,19,450,450000,€,Tsd.,22,Derby County,Derby County,https://tmssl.akamaized.net/images/wappen/medium/22.png?lm=1407654006,19/20,Lee Buchanan
+02.2020,2020-02-27,18,500,500000,€,Tsd.,22,Derby County,Derby County,https://tmssl.akamaized.net/images/wappen/medium/22.png?lm=1407654006,19/20,Lee Buchanan
+10.2019,2019-10-17,18,500,500000,€,Tsd.,22,Derby County,Derby County,https://tmssl.akamaized.net/images/wappen/medium/22.png?lm=1407654006,19/20,Lee Buchanan

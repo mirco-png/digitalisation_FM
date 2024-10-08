@@ -1,0 +1,22 @@
+date,unformattedDate,age,marketValue,marketValueUnformatted,marketValueCurrency,marketValueNumeral,clubID,clubName,clubShortName,clubImage,seasonID,Name
+11.2022,2022-11-09,25,"20,00",20000000,€,Mio.,18,Borussia Mönchengladbach,Bor. M'gladbach,https://tmssl.akamaized.net/images/wappen/medium/18.png?lm=1656585796,22/23,Florian Neuhaus
+06.2022,2022-06-09,25,"20,00",20000000,€,Mio.,18,Borussia Mönchengladbach,Bor. M'gladbach,https://tmssl.akamaized.net/images/wappen/medium/18.png?lm=1656585796,21/22,Florian Neuhaus
+12.2021,2021-12-22,24,"22,00",22000000,€,Mio.,18,Borussia Mönchengladbach,Bor. M'gladbach,https://tmssl.akamaized.net/images/wappen/medium/18.png?lm=1656585796,21/22,Florian Neuhaus
+10.2021,2021-10-07,24,"28,00",28000000,€,Mio.,18,Borussia Mönchengladbach,Bor. M'gladbach,https://tmssl.akamaized.net/images/wappen/medium/18.png?lm=1656585796,21/22,Florian Neuhaus
+06.2021,2021-06-01,24,"35,00",35000000,€,Mio.,18,Borussia Mönchengladbach,Bor. M'gladbach,https://tmssl.akamaized.net/images/wappen/medium/18.png?lm=1656585796,20/21,Florian Neuhaus
+02.2021,2021-02-10,23,"38,00",38000000,€,Mio.,18,Borussia Mönchengladbach,Bor. M'gladbach,https://tmssl.akamaized.net/images/wappen/medium/18.png?lm=1656585796,20/21,Florian Neuhaus
+11.2020,2020-11-26,23,"28,00",28000000,€,Mio.,18,Borussia Mönchengladbach,Bor. M'gladbach,https://tmssl.akamaized.net/images/wappen/medium/18.png?lm=1656585796,20/21,Florian Neuhaus
+07.2020,2020-07-08,23,"23,00",23000000,€,Mio.,18,Borussia Mönchengladbach,Bor. M'gladbach,https://tmssl.akamaized.net/images/wappen/medium/18.png?lm=1656585796,20/21,Florian Neuhaus
+04.2020,2020-04-08,23,"17,50",17500000,€,Mio.,18,Borussia Mönchengladbach,Bor. M'gladbach,https://tmssl.akamaized.net/images/wappen/medium/18.png?lm=1656585796,19/20,Florian Neuhaus
+12.2019,2019-12-17,22,"22,00",22000000,€,Mio.,18,Borussia Mönchengladbach,Bor. M'gladbach,https://tmssl.akamaized.net/images/wappen/medium/18.png?lm=1656585796,19/20,Florian Neuhaus
+06.2019,2019-06-05,22,"22,00",22000000,€,Mio.,18,Borussia Mönchengladbach,Bor. M'gladbach,https://tmssl.akamaized.net/images/wappen/medium/18.png?lm=1656585796,18/19,Florian Neuhaus
+03.2019,2019-03-06,21,"24,00",24000000,€,Mio.,18,Borussia Mönchengladbach,Bor. M'gladbach,https://tmssl.akamaized.net/images/wappen/medium/18.png?lm=1656585796,18/19,Florian Neuhaus
+12.2018,2018-12-18,21,"18,00",18000000,€,Mio.,18,Borussia Mönchengladbach,Bor. M'gladbach,https://tmssl.akamaized.net/images/wappen/medium/18.png?lm=1656585796,18/19,Florian Neuhaus
+10.2018,2018-10-22,21,"10,00",10000000,€,Mio.,18,Borussia Mönchengladbach,Bor. M'gladbach,https://tmssl.akamaized.net/images/wappen/medium/18.png?lm=1656585796,18/19,Florian Neuhaus
+06.2018,2018-06-19,21,"3,00",3000000,€,Mio.,38,Fortuna Düsseldorf,F. Düsseldorf,https://tmssl.akamaized.net/images/wappen/medium/38.png?lm=1405514004,17/18,Florian Neuhaus
+01.2018,2018-01-22,20,"1,50",1500000,€,Mio.,38,Fortuna Düsseldorf,F. Düsseldorf,https://tmssl.akamaized.net/images/wappen/medium/38.png?lm=1405514004,17/18,Florian Neuhaus
+10.2017,2017-10-17,20,800,800000,€,Tsd.,38,Fortuna Düsseldorf,F. Düsseldorf,https://tmssl.akamaized.net/images/wappen/medium/38.png?lm=1405514004,17/18,Florian Neuhaus
+08.2017,2017-08-21,20,450,450000,€,Tsd.,38,Fortuna Düsseldorf,F. Düsseldorf,https://tmssl.akamaized.net/images/wappen/medium/38.png?lm=1405514004,17/18,Florian Neuhaus
+06.2017,2017-06-27,20,250,250000,€,Tsd.,72,TSV 1860 München,1860 München,https://tmssl.akamaized.net/images/wappen/medium/72.png?lm=1403081335,16/17,Florian Neuhaus
+01.2017,2017-01-23,19,150,150000,€,Tsd.,72,TSV 1860 München,1860 München,https://tmssl.akamaized.net/images/wappen/medium/72.png?lm=1403081335,16/17,Florian Neuhaus
+07.2016,2016-07-22,19,100,100000,€,Tsd.,72,TSV 1860 München,1860 München,https://tmssl.akamaized.net/images/wappen/medium/72.png?lm=1403081335,16/17,Florian Neuhaus

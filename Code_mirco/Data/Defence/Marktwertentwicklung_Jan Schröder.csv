@@ -1,0 +1,5 @@
+date,unformattedDate,age,marketValue,marketValueUnformatted,marketValueCurrency,marketValueNumeral,clubID,clubName,clubShortName,clubImage,seasonID,Name
+11.2022,2022-11-09,19,200,200000,€,Tsd.,24,Eintracht Frankfurt,E. Frankfurt,https://tmssl.akamaized.net/images/wappen/medium/24.png?lm=1403806187,22/23,Jan Schröder
+06.2022,2022-06-09,19,200,200000,€,Tsd.,24,Eintracht Frankfurt,E. Frankfurt,https://tmssl.akamaized.net/images/wappen/medium/24.png?lm=1403806187,21/22,Jan Schröder
+12.2021,2021-12-22,18,200,200000,€,Tsd.,24,Eintracht Frankfurt,E. Frankfurt,https://tmssl.akamaized.net/images/wappen/medium/24.png?lm=1403806187,21/22,Jan Schröder
+08.2021,2021-08-24,18,200,200000,€,Tsd.,24,Eintracht Frankfurt,E. Frankfurt,https://tmssl.akamaized.net/images/wappen/medium/24.png?lm=1403806187,21/22,Jan Schröder

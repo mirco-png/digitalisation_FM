@@ -1,0 +1,15 @@
+date,unformattedDate,age,marketValue,marketValueUnformatted,marketValueCurrency,marketValueNumeral,clubID,clubName,clubShortName,clubImage,seasonID,Name
+11.2022,2022-11-09,23,"4,50",4500000,€,Mio.,3,1.FC Köln,1.FC Köln,https://tmssl.akamaized.net/images/wappen/medium/3.png?lm=1656580823,22/23,Luca Kilian
+06.2022,2022-06-09,22,"4,50",4500000,€,Mio.,3,1.FC Köln,1.FC Köln,https://tmssl.akamaized.net/images/wappen/medium/3.png?lm=1656580823,21/22,Luca Kilian
+03.2022,2022-03-24,22,"4,00",4000000,€,Mio.,3,1.FC Köln,1.FC Köln,https://tmssl.akamaized.net/images/wappen/medium/3.png?lm=1656580823,21/22,Luca Kilian
+12.2021,2021-12-22,22,"2,50",2500000,€,Mio.,3,1.FC Köln,1.FC Köln,https://tmssl.akamaized.net/images/wappen/medium/3.png?lm=1656580823,21/22,Luca Kilian
+06.2021,2021-06-09,21,"1,30",1300000,€,Mio.,39,1.FSV Mainz 05,1.FSV Mainz 05,https://tmssl.akamaized.net/images/wappen/medium/39.png?lm=1564748880,20/21,Luca Kilian
+02.2021,2021-02-10,21,"2,00",2000000,€,Mio.,39,1.FSV Mainz 05,1.FSV Mainz 05,https://tmssl.akamaized.net/images/wappen/medium/39.png?lm=1564748880,20/21,Luca Kilian
+09.2020,2020-09-16,21,"2,00",2000000,€,Mio.,39,1.FSV Mainz 05,1.FSV Mainz 05,https://tmssl.akamaized.net/images/wappen/medium/39.png?lm=1564748880,20/21,Luca Kilian
+04.2020,2020-04-08,20,"1,30",1300000,€,Mio.,127,SC Paderborn 07,SC Paderborn,https://tmssl.akamaized.net/images/wappen/medium/127.png?lm=1532010365,19/20,Luca Kilian
+12.2019,2019-12-17,20,"1,50",1500000,€,Mio.,127,SC Paderborn 07,SC Paderborn,https://tmssl.akamaized.net/images/wappen/medium/127.png?lm=1532010365,19/20,Luca Kilian
+10.2019,2019-10-02,20,400,400000,€,Tsd.,127,SC Paderborn 07,SC Paderborn,https://tmssl.akamaized.net/images/wappen/medium/127.png?lm=1532010365,19/20,Luca Kilian
+07.2019,2019-07-15,19,200,200000,€,Tsd.,127,SC Paderborn 07,SC Paderborn,https://tmssl.akamaized.net/images/wappen/medium/127.png?lm=1532010365,19/20,Luca Kilian
+02.2019,2019-02-05,19,125,125000,€,Tsd.,17,Borussia Dortmund II,B. Dortmund II,https://tmssl.akamaized.net/images/wappen/medium/17.png?lm=1396275305,18/19,Luca Kilian
+10.2018,2018-10-08,19,100,100000,€,Tsd.,17,Borussia Dortmund II,B. Dortmund II,https://tmssl.akamaized.net/images/wappen/medium/17.png?lm=1396275305,18/19,Luca Kilian
+07.2018,2018-07-15,18,75,75000,€,Tsd.,17,Borussia Dortmund II,B. Dortmund II,https://tmssl.akamaized.net/images/wappen/medium/17.png?lm=1396275305,18/19,Luca Kilian

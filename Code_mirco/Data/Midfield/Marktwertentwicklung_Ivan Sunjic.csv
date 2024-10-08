@@ -1,0 +1,17 @@
+date,unformattedDate,age,marketValue,marketValueUnformatted,marketValueCurrency,marketValueNumeral,clubID,clubName,clubShortName,clubImage,seasonID,Name
+11.2022,2022-11-09,26,"5,00",5000000,€,Mio.,44,Hertha BSC,Hertha BSC,https://tmssl.akamaized.net/images/wappen/medium/44.png?lm=1656580875,22/23,Ivan Sunjic
+05.2022,2022-05-13,25,"4,00",4000000,€,Mio.,337,Birmingham City,Birmingham City,https://tmssl.akamaized.net/images/wappen/medium/337.png?lm=1672321276,21/22,Ivan Sunjic
+11.2021,2021-11-24,25,"4,00",4000000,€,Mio.,337,Birmingham City,Birmingham City,https://tmssl.akamaized.net/images/wappen/medium/337.png?lm=1672321276,21/22,Ivan Sunjic
+06.2021,2021-06-30,24,"4,50",4500000,€,Mio.,337,Birmingham City,Birmingham City,https://tmssl.akamaized.net/images/wappen/medium/337.png?lm=1672321276,20/21,Ivan Sunjic
+03.2021,2021-03-10,24,"4,50",4500000,€,Mio.,337,Birmingham City,Birmingham City,https://tmssl.akamaized.net/images/wappen/medium/337.png?lm=1672321276,20/21,Ivan Sunjic
+10.2020,2020-10-15,24,"5,50",5500000,€,Mio.,337,Birmingham City,Birmingham City,https://tmssl.akamaized.net/images/wappen/medium/337.png?lm=1672321276,20/21,Ivan Sunjic
+04.2020,2020-04-08,23,"4,80",4800000,€,Mio.,337,Birmingham City,Birmingham City,https://tmssl.akamaized.net/images/wappen/medium/337.png?lm=1672321276,19/20,Ivan Sunjic
+02.2020,2020-02-27,23,"6,00",6000000,€,Mio.,337,Birmingham City,Birmingham City,https://tmssl.akamaized.net/images/wappen/medium/337.png?lm=1672321276,19/20,Ivan Sunjic
+10.2019,2019-10-17,23,"6,00",6000000,€,Mio.,337,Birmingham City,Birmingham City,https://tmssl.akamaized.net/images/wappen/medium/337.png?lm=1672321276,19/20,Ivan Sunjic
+03.2019,2019-03-11,22,"3,00",3000000,€,Mio.,419,GNK Dinamo Zagreb,Dinamo Zagreb,https://tmssl.akamaized.net/images/wappen/medium/419.png?lm=1571921138,18/19,Ivan Sunjic
+09.2018,2018-09-25,21,"2,00",2000000,€,Mio.,419,GNK Dinamo Zagreb,Dinamo Zagreb,https://tmssl.akamaized.net/images/wappen/medium/419.png?lm=1571921138,18/19,Ivan Sunjic
+03.2018,2018-03-18,21,"1,35",1350000,€,Mio.,11194,NK Lokomotiva Zagreb,NK Lokomotiva,https://tmssl.akamaized.net/images/wappen/medium/11194.png?lm=1505567651,17/18,Ivan Sunjic
+10.2017,2017-10-23,21,850,850000,€,Tsd.,11194,NK Lokomotiva Zagreb,NK Lokomotiva,https://tmssl.akamaized.net/images/wappen/medium/11194.png?lm=1505567651,17/18,Ivan Sunjic
+03.2017,2017-03-13,20,400,400000,€,Tsd.,11194,NK Lokomotiva Zagreb,NK Lokomotiva,https://tmssl.akamaized.net/images/wappen/medium/11194.png?lm=1505567651,16/17,Ivan Sunjic
+09.2016,2016-09-14,19,300,300000,€,Tsd.,11194,NK Lokomotiva Zagreb,NK Lokomotiva,https://tmssl.akamaized.net/images/wappen/medium/11194.png?lm=1505567651,16/17,Ivan Sunjic
+03.2016,2016-03-14,19,150,150000,€,Tsd.,11194,NK Lokomotiva Zagreb,NK Lokomotiva,https://tmssl.akamaized.net/images/wappen/medium/11194.png?lm=1505567651,15/16,Ivan Sunjic

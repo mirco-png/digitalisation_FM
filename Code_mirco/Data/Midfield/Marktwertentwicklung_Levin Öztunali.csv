@@ -1,0 +1,25 @@
+date,unformattedDate,age,marketValue,marketValueUnformatted,marketValueCurrency,marketValueNumeral,clubID,clubName,clubShortName,clubImage,seasonID,Name
+11.2022,2022-11-09,26,"1,50",1500000,€,Mio.,89,1.FC Union Berlin,Union Berlin,https://tmssl.akamaized.net/images/wappen/medium/89.png?lm=1402956210,22/23,Levin Öztunali
+06.2022,2022-06-09,26,"1,50",1500000,€,Mio.,89,1.FC Union Berlin,Union Berlin,https://tmssl.akamaized.net/images/wappen/medium/89.png?lm=1402956210,21/22,Levin Öztunali
+03.2022,2022-03-24,26,"1,80",1800000,€,Mio.,89,1.FC Union Berlin,Union Berlin,https://tmssl.akamaized.net/images/wappen/medium/89.png?lm=1402956210,21/22,Levin Öztunali
+12.2021,2021-12-22,25,"2,50",2500000,€,Mio.,89,1.FC Union Berlin,Union Berlin,https://tmssl.akamaized.net/images/wappen/medium/89.png?lm=1402956210,21/22,Levin Öztunali
+06.2021,2021-06-09,25,"2,50",2500000,€,Mio.,39,1.FSV Mainz 05,1.FSV Mainz 05,https://tmssl.akamaized.net/images/wappen/medium/39.png?lm=1564748880,20/21,Levin Öztunali
+02.2021,2021-02-10,24,"2,80",2800000,€,Mio.,39,1.FSV Mainz 05,1.FSV Mainz 05,https://tmssl.akamaized.net/images/wappen/medium/39.png?lm=1564748880,20/21,Levin Öztunali
+04.2020,2020-04-08,24,"2,80",2800000,€,Mio.,39,1.FSV Mainz 05,1.FSV Mainz 05,https://tmssl.akamaized.net/images/wappen/medium/39.png?lm=1564748880,19/20,Levin Öztunali
+12.2019,2019-12-17,23,"3,50",3500000,€,Mio.,39,1.FSV Mainz 05,1.FSV Mainz 05,https://tmssl.akamaized.net/images/wappen/medium/39.png?lm=1564748880,19/20,Levin Öztunali
+06.2019,2019-06-05,23,"3,50",3500000,€,Mio.,39,1.FSV Mainz 05,1.FSV Mainz 05,https://tmssl.akamaized.net/images/wappen/medium/39.png?lm=1564748880,18/19,Levin Öztunali
+12.2018,2018-12-18,22,"4,50",4500000,€,Mio.,39,1.FSV Mainz 05,1.FSV Mainz 05,https://tmssl.akamaized.net/images/wappen/medium/39.png?lm=1564748880,18/19,Levin Öztunali
+06.2018,2018-06-05,22,"5,50",5500000,€,Mio.,39,1.FSV Mainz 05,1.FSV Mainz 05,https://tmssl.akamaized.net/images/wappen/medium/39.png?lm=1564748880,17/18,Levin Öztunali
+12.2017,2017-12-28,21,"6,50",6500000,€,Mio.,39,1.FSV Mainz 05,1.FSV Mainz 05,https://tmssl.akamaized.net/images/wappen/medium/39.png?lm=1564748880,17/18,Levin Öztunali
+06.2017,2017-06-19,21,"6,50",6500000,€,Mio.,39,1.FSV Mainz 05,1.FSV Mainz 05,https://tmssl.akamaized.net/images/wappen/medium/39.png?lm=1564748880,16/17,Levin Öztunali
+03.2017,2017-03-22,21,"5,00",5000000,€,Mio.,39,1.FSV Mainz 05,1.FSV Mainz 05,https://tmssl.akamaized.net/images/wappen/medium/39.png?lm=1564748880,16/17,Levin Öztunali
+02.2017,2017-02-07,20,"4,00",4000000,€,Mio.,39,1.FSV Mainz 05,1.FSV Mainz 05,https://tmssl.akamaized.net/images/wappen/medium/39.png?lm=1564748880,16/17,Levin Öztunali
+10.2016,2016-10-13,20,"4,00",4000000,€,Mio.,39,1.FSV Mainz 05,1.FSV Mainz 05,https://tmssl.akamaized.net/images/wappen/medium/39.png?lm=1564748880,16/17,Levin Öztunali
+07.2016,2016-07-22,20,"3,00",3000000,€,Mio.,15,Bayer 04 Leverkusen,B. Leverkusen,https://tmssl.akamaized.net/images/wappen/medium/15.png?lm=1651221781,16/17,Levin Öztunali
+02.2016,2016-02-15,19,"3,00",3000000,€,Mio.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,15/16,Levin Öztunali
+07.2015,2015-07-01,19,"3,00",3000000,€,Mio.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,15/16,Levin Öztunali
+03.2015,2015-03-29,19,"2,50",2500000,€,Mio.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,14/15,Levin Öztunali
+02.2015,2015-02-04,18,"1,50",1500000,€,Mio.,86,SV Werder Bremen,Werder Bremen,https://tmssl.akamaized.net/images/wappen/medium/86.png?lm=1403082298,14/15,Levin Öztunali
+07.2014,2014-07-10,18,"1,50",1500000,€,Mio.,15,Bayer 04 Leverkusen,B. Leverkusen,https://tmssl.akamaized.net/images/wappen/medium/15.png?lm=1651221781,14/15,Levin Öztunali
+02.2014,2014-02-12,17,"1,00",1000000,€,Mio.,15,Bayer 04 Leverkusen,B. Leverkusen,https://tmssl.akamaized.net/images/wappen/medium/15.png?lm=1651221781,13/14,Levin Öztunali
+07.2013,2013-07-25,17,300,300000,€,Tsd.,15,Bayer 04 Leverkusen,B. Leverkusen,https://tmssl.akamaized.net/images/wappen/medium/15.png?lm=1651221781,13/14,Levin Öztunali

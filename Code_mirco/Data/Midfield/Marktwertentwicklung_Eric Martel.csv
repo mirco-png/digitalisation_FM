@@ -1,0 +1,8 @@
+date,unformattedDate,age,marketValue,marketValueUnformatted,marketValueCurrency,marketValueNumeral,clubID,clubName,clubShortName,clubImage,seasonID,Name
+11.2022,2022-11-09,20,"4,00",4000000,€,Mio.,3,1.FC Köln,1.FC Köln,https://tmssl.akamaized.net/images/wappen/medium/3.png?lm=1656580823,22/23,Eric Martel
+09.2022,2022-09-21,20,"2,00",2000000,€,Mio.,3,1.FC Köln,1.FC Köln,https://tmssl.akamaized.net/images/wappen/medium/3.png?lm=1656580823,22/23,Eric Martel
+05.2022,2022-05-27,20,"3,00",3000000,€,Mio.,14,FK Austria Wien,Austria Wien,https://tmssl.akamaized.net/images/wappen/medium/14.png?lm=1406739366,21/22,Eric Martel
+12.2021,2021-12-16,19,"2,00",2000000,€,Mio.,14,FK Austria Wien,Austria Wien,https://tmssl.akamaized.net/images/wappen/medium/14.png?lm=1406739366,21/22,Eric Martel
+06.2021,2021-06-02,19,"1,80",1800000,€,Mio.,14,FK Austria Wien,Austria Wien,https://tmssl.akamaized.net/images/wappen/medium/14.png?lm=1406739366,20/21,Eric Martel
+03.2021,2021-03-24,18,"1,00",1000000,€,Mio.,14,FK Austria Wien,Austria Wien,https://tmssl.akamaized.net/images/wappen/medium/14.png?lm=1406739366,20/21,Eric Martel
+01.2021,2021-01-16,18,200,200000,€,Tsd.,14,FK Austria Wien,Austria Wien,https://tmssl.akamaized.net/images/wappen/medium/14.png?lm=1406739366,20/21,Eric Martel

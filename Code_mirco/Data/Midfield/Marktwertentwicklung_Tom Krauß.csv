@@ -1,0 +1,10 @@
+date,unformattedDate,age,marketValue,marketValueUnformatted,marketValueCurrency,marketValueNumeral,clubID,clubName,clubShortName,clubImage,seasonID,Name
+11.2022,2022-11-09,21,"6,00",6000000,€,Mio.,33,FC Schalke 04,FC Schalke 04,https://tmssl.akamaized.net/images/wappen/medium/33.png?lm=1656580846,22/23,Tom Krauß
+06.2022,2022-06-16,20,"4,00",4000000,€,Mio.,4,1.FC Nürnberg,1.FC Nürnberg,https://tmssl.akamaized.net/images/wappen/medium/4.png?lm=1525459914,21/22,Tom Krauß
+12.2021,2021-12-15,20,"4,00",4000000,€,Mio.,4,1.FC Nürnberg,1.FC Nürnberg,https://tmssl.akamaized.net/images/wappen/medium/4.png?lm=1525459914,21/22,Tom Krauß
+10.2021,2021-10-13,20,"4,00",4000000,€,Mio.,4,1.FC Nürnberg,1.FC Nürnberg,https://tmssl.akamaized.net/images/wappen/medium/4.png?lm=1525459914,21/22,Tom Krauß
+06.2021,2021-06-16,19,"3,00",3000000,€,Mio.,4,1.FC Nürnberg,1.FC Nürnberg,https://tmssl.akamaized.net/images/wappen/medium/4.png?lm=1525459914,20/21,Tom Krauß
+02.2021,2021-02-08,19,"1,50",1500000,€,Mio.,4,1.FC Nürnberg,1.FC Nürnberg,https://tmssl.akamaized.net/images/wappen/medium/4.png?lm=1525459914,20/21,Tom Krauß
+11.2020,2020-11-18,19,"1,00",1000000,€,Mio.,4,1.FC Nürnberg,1.FC Nürnberg,https://tmssl.akamaized.net/images/wappen/medium/4.png?lm=1525459914,20/21,Tom Krauß
+12.2019,2019-12-17,18,300,300000,€,Tsd.,23826,RasenBallsport Leipzig,RB Leipzig,https://tmssl.akamaized.net/images/wappen/medium/23826.png?lm=1619431624,19/20,Tom Krauß
+07.2019,2019-07-28,18,300,300000,€,Tsd.,23826,RasenBallsport Leipzig,RB Leipzig,https://tmssl.akamaized.net/images/wappen/medium/23826.png?lm=1619431624,19/20,Tom Krauß

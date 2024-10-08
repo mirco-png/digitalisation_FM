@@ -1,0 +1,24 @@
+date,unformattedDate,age,marketValue,marketValueUnformatted,marketValueCurrency,marketValueNumeral,clubID,clubName,clubShortName,clubImage,seasonID,Name
+11.2022,2022-11-09,27,"1,80",1800000,€,Mio.,33,FC Schalke 04,FC Schalke 04,https://tmssl.akamaized.net/images/wappen/medium/33.png?lm=1656580846,22/23,Tobias Mohr
+09.2022,2022-09-21,27,"1,80",1800000,€,Mio.,33,FC Schalke 04,FC Schalke 04,https://tmssl.akamaized.net/images/wappen/medium/33.png?lm=1656580846,22/23,Tobias Mohr
+06.2022,2022-06-16,26,"1,30",1300000,€,Mio.,2036,1.FC Heidenheim 1846,1.FC Heidenheim,https://tmssl.akamaized.net/images/wappen/medium/2036.png?lm=1490215754,21/22,Tobias Mohr
+03.2022,2022-03-23,26,"1,10",1100000,€,Mio.,2036,1.FC Heidenheim 1846,1.FC Heidenheim,https://tmssl.akamaized.net/images/wappen/medium/2036.png?lm=1490215754,21/22,Tobias Mohr
+12.2021,2021-12-15,26,850,850000,€,Tsd.,2036,1.FC Heidenheim 1846,1.FC Heidenheim,https://tmssl.akamaized.net/images/wappen/medium/2036.png?lm=1490215754,21/22,Tobias Mohr
+06.2021,2021-06-16,25,700,700000,€,Tsd.,2036,1.FC Heidenheim 1846,1.FC Heidenheim,https://tmssl.akamaized.net/images/wappen/medium/2036.png?lm=1490215754,20/21,Tobias Mohr
+02.2021,2021-02-08,25,750,750000,€,Tsd.,2036,1.FC Heidenheim 1846,1.FC Heidenheim,https://tmssl.akamaized.net/images/wappen/medium/2036.png?lm=1490215754,20/21,Tobias Mohr
+04.2020,2020-04-08,24,725,725000,€,Tsd.,2036,1.FC Heidenheim 1846,1.FC Heidenheim,https://tmssl.akamaized.net/images/wappen/medium/2036.png?lm=1490215754,19/20,Tobias Mohr
+04.2020,2020-04-02,24,900,900000,€,Tsd.,2036,1.FC Heidenheim 1846,1.FC Heidenheim,https://tmssl.akamaized.net/images/wappen/medium/2036.png?lm=1490215754,19/20,Tobias Mohr
+12.2019,2019-12-13,24,600,600000,€,Tsd.,65,SpVgg Greuther Fürth,Greuther Fürth,https://tmssl.akamaized.net/images/wappen/medium/65.png?lm=1503682935,19/20,Tobias Mohr
+06.2019,2019-06-12,23,750,750000,€,Tsd.,65,SpVgg Greuther Fürth,Greuther Fürth,https://tmssl.akamaized.net/images/wappen/medium/65.png?lm=1503682935,18/19,Tobias Mohr
+01.2019,2019-01-08,23,750,750000,€,Tsd.,65,SpVgg Greuther Fürth,Greuther Fürth,https://tmssl.akamaized.net/images/wappen/medium/65.png?lm=1503682935,18/19,Tobias Mohr
+10.2018,2018-10-16,23,600,600000,€,Tsd.,65,SpVgg Greuther Fürth,Greuther Fürth,https://tmssl.akamaized.net/images/wappen/medium/65.png?lm=1503682935,18/19,Tobias Mohr
+08.2018,2018-08-21,22,250,250000,€,Tsd.,65,SpVgg Greuther Fürth,Greuther Fürth,https://tmssl.akamaized.net/images/wappen/medium/65.png?lm=1503682935,18/19,Tobias Mohr
+02.2018,2018-02-03,22,150,150000,€,Tsd.,8,Alemannia Aachen,Alem. Aachen,https://tmssl.akamaized.net/images/wappen/medium/8.png?lm=1403603100,17/18,Tobias Mohr
+10.2017,2017-10-16,22,125,125000,€,Tsd.,8,Alemannia Aachen,Alem. Aachen,https://tmssl.akamaized.net/images/wappen/medium/8.png?lm=1403603100,17/18,Tobias Mohr
+07.2017,2017-07-01,21,100,100000,€,Tsd.,8,Alemannia Aachen,Alem. Aachen,https://tmssl.akamaized.net/images/wappen/medium/8.png?lm=1403603100,17/18,Tobias Mohr
+11.2016,2016-11-20,21,75,75000,€,Tsd.,8,Alemannia Aachen,Alem. Aachen,https://tmssl.akamaized.net/images/wappen/medium/8.png?lm=1403603100,16/17,Tobias Mohr
+07.2016,2016-07-15,20,75,75000,€,Tsd.,8,Alemannia Aachen,Alem. Aachen,https://tmssl.akamaized.net/images/wappen/medium/8.png?lm=1403603100,16/17,Tobias Mohr
+01.2016,2016-01-15,20,50,50000,€,Tsd.,8,Alemannia Aachen,Alem. Aachen,https://tmssl.akamaized.net/images/wappen/medium/8.png?lm=1403603100,15/16,Tobias Mohr
+06.2015,2015-06-30,19,50,50000,€,Tsd.,8,Alemannia Aachen,Alem. Aachen,https://tmssl.akamaized.net/images/wappen/medium/8.png?lm=1403603100,14/15,Tobias Mohr
+01.2015,2015-01-01,19,50,50000,€,Tsd.,8,Alemannia Aachen,Alem. Aachen,https://tmssl.akamaized.net/images/wappen/medium/8.png?lm=1403603100,14/15,Tobias Mohr
+07.2014,2014-07-27,18,25,25000,€,Tsd.,8,Alemannia Aachen,Alem. Aachen,https://tmssl.akamaized.net/images/wappen/medium/8.png?lm=1403603100,14/15,Tobias Mohr
