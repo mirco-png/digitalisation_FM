@@ -1,3 +1,4 @@
+import pandas
 import pandas as pd #dataframe
 import matplotlib.pyplot as plt #graphics
 import numpy as np #calculation

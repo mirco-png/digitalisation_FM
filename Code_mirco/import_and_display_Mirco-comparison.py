@@ -9,7 +9,6 @@ from scipy.optimize import curve_fit #normal distribution
 from math import isnan
 import datetime as datetime
 from colorama import Fore, Style
-import openpyxl
 from pathlib import Path
 
 
