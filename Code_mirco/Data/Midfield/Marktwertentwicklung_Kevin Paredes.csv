@@ -1,9 +1,0 @@
-date,unformattedDate,age,marketValue,marketValueUnformatted,marketValueCurrency,marketValueNumeral,clubID,clubName,clubShortName,clubImage,seasonID,Name
-11.2022,2022-11-09,19,"5,00",5000000,€,Mio.,82,VfL Wolfsburg,VfL Wolfsburg,https://tmssl.akamaized.net/images/wappen/medium/82.png?lm=1503060755,22/23,Kevin Paredes
-06.2022,2022-06-09,19,"5,00",5000000,€,Mio.,82,VfL Wolfsburg,VfL Wolfsburg,https://tmssl.akamaized.net/images/wappen/medium/82.png?lm=1503060755,21/22,Kevin Paredes
-11.2021,2021-11-09,18,"4,00",4000000,€,Mio.,2440,D.C. United,D.C. United,https://tmssl.akamaized.net/images/wappen/medium/2440.png?lm=1450113961,21/22,Kevin Paredes
-07.2021,2021-07-09,18,"1,00",1000000,€,Mio.,2440,D.C. United,D.C. United,https://tmssl.akamaized.net/images/wappen/medium/2440.png?lm=1450113961,21/22,Kevin Paredes
-12.2020,2020-12-18,17,800,800000,€,Tsd.,2440,D.C. United,D.C. United,https://tmssl.akamaized.net/images/wappen/medium/2440.png?lm=1450113961,20/21,Kevin Paredes
-11.2020,2020-11-13,17,800,800000,€,Tsd.,2440,D.C. United,D.C. United,https://tmssl.akamaized.net/images/wappen/medium/2440.png?lm=1450113961,20/21,Kevin Paredes
-08.2020,2020-08-26,17,275,275000,€,Tsd.,2440,D.C. United,D.C. United,https://tmssl.akamaized.net/images/wappen/medium/2440.png?lm=1450113961,20/21,Kevin Paredes
-02.2020,2020-02-28,16,50,50000,€,Tsd.,2440,D.C. United,D.C. United,https://tmssl.akamaized.net/images/wappen/medium/2440.png?lm=1450113961,19/20,Kevin Paredes
