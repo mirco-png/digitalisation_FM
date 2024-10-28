@@ -19,7 +19,7 @@ cursor = connection.cursor()
 
 #Erstellen von Tabellen
 #eventuell Datum einbauen (Störungsbeginn Datum)
-cursor.execute("CREATE TABLE IF NOT EXISTS `trams`(`Tramtyp`,`TechnischerPlatz` VRCAHAR(200),`Störungsbeginn` INTEGER,`Auftragsnummer` INTEGER, `Beschreibung` VRCAHAR(200), `Bemerkung` VRCAHAR(200));")
+cursor.execute("CREATE TABLE IF NOT EXISTS `trams`(`id` INT AUTO_INCREMENT PRIMARY KEY,`Tramtyp` VRCAHAR(200),`TechnischerPlatz` VRCAHAR(200),`Störungsbeginn` INT,`Auftragsnummer` INTEGER, `Beschreibung` VRCAHAR(200), `Bemerkung` VRCAHAR(200));")
 
 #Aktueller Ordnerpfad
 folder_path = os.path.join(os.path.dirname(os.path.abspath(__file__))+"""\Ablag_Exports""","")
