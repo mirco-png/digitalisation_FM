@@ -86,7 +86,7 @@ fig, ax = plt.subplots(figsize=(15, 6))
 
 ax.scatter(x=df_2['Störungsbeginn'], y=df_2['Tramtyp'], s=df_2['Störungsbeginn'])
 #annotate https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.annotate.html
-ax.set(xlabel="Anzahl Tage Tramm Ausserbetrieb", title=f"Scatter Plot: {Liste_Dateien[-1]}")
+ax.set(xlabel="Anzahl Tage Tram Ausserbetrieb", title=f"Scatter Plot: {Liste_Dateien[-1]}")
 plt.show()
 
 fig, ax = plt.subplots(figsize=(14, 7), subplot_kw=dict(aspect="equal"))
@@ -98,7 +98,8 @@ tram = [f"{c_com} Combino",
           f"{c_f_k} Flexity-kurz"]
 
 data = [float(x.split()[0]) for x in tram]
-ingredients = [x.split()[-1] for x in tram]
+tramtyp = [x.split()[-1] for x in tram]
+c_max = sum([c_com, c_cor, c_awnf, c_f_k, c_f_l])
 
 def func(pct, allvals):
     absolute = int(np.round(pct/100.*np.sum(allvals)))
@@ -108,10 +109,12 @@ def func(pct, allvals):
 wedges, texts, autotexts = ax.pie(data, autopct=lambda pct: func(pct, data),
                                   textprops=dict(color="w"))
 
-ax.legend(wedges, ingredients,
-          title="Tramtyp",
+
+ax.legend(wedges, tramtyp,
+          title=f"Datum: {x}" +" " *20 +"\n" + f"Insgesamt Tram Ausserbetrieb: {c_max} \nLegende:",
           loc="center",
           bbox_to_anchor=(1, 0, 0.5, 1))
+
 
 plt.setp(autotexts, size=8, weight="bold")
 
