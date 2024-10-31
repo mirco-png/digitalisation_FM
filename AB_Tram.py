@@ -42,11 +42,19 @@ import sqlite3
 # DATENANALYSE
 
 #Löscht die Datenbank AB_Tram.db
+<<<<<<< HEAD
 f_path =os.path.join(os.path.dirname(os.path.abspath(__file__))+'\AB_tram.db')
 os.remove(f_path)
 
 #Verbindungsaufbau Sqlite3 und erstellen von Datenbank AB_Tram
 connection = sqlite3.connect(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'AB_tram.db'))
+=======
+f_path =os.path.join(os.path.dirname(os.path.abspath(__file__))+"""\AB_Tram.db""")
+os.remove(f_path)
+
+#Verbindungsaufbau Sqlite3 und erstellen von Datenbank AB_Tram
+connection = sqlite3.connect(os.path.join(os.path.dirname(os.path.abspath(__file__)), "AB_Tram.db"))
+>>>>>>> 0e11e53bad7c7164283dc9cc7cf09f34bfc4e32d
 
 #Definition "cursor" zum Schreiben in die Datenbank
 cursor = connection.cursor()
@@ -71,11 +79,19 @@ list_dir = os.listdir(folder_path)
 df = pd.read_excel(folder_path + list_dir[-1])
 
 
+<<<<<<< HEAD
 #DataFrames
 df_t =df['Technischer Platz']
 df_2 =df['Störungsbeginn'].dt.date
 df_m =df['Meldungsnummer']
 df_b =df['Beschreibung']
+=======
+#Data frames
+df_t =df["Technischer Platz"]
+df_2 =df["Störungsbeginn"].dt.date
+df_m =df["Meldungsnummer"]
+df_b =df["Beschreibung"]
+>>>>>>> 0e11e53bad7c7164283dc9cc7cf09f34bfc4e32d
 
 #l_df = [df["Technischer Platz"], df["Störungsbeginn"].dt.date, df["Meldungsnummer"], df["Beschreibung"]]
 
@@ -94,7 +110,11 @@ for i, y, z, w in zip(df_t, df_2, df_m, df_b):
      l_df_it = df_t.tolist()
      x = dt.date.today()
      xy = x-y
+<<<<<<< HEAD
      s_1 = i.split('TB')[2]
+=======
+     s_1 = i.split("TB")[2]
+>>>>>>> 0e11e53bad7c7164283dc9cc7cf09f34bfc4e32d
      s_2 = int(s_1[:4])
      co = 0
      for x, txt in enumerate(df_t):
@@ -103,6 +123,7 @@ for i, y, z, w in zip(df_t, df_2, df_m, df_b):
      if i != l_df_it[counter]:
           l_co.append(f"{i} :"f"{co}")
           if s_2 >= 301 and s_2 <= 399:
+<<<<<<< HEAD
                cursor.execute("""
                     INSERT INTO `trams`
                     (`Tramtyp`,`TechnischerPlatz`,`Störungsbeginn`,`Auftragsnummer`, `Beschreibung`, `Abk_TechnischerPlatz`)
@@ -145,6 +166,25 @@ for i, y, z, w in zip(df_t, df_2, df_m, df_b):
                     VALUES ( ?,?,?,?,?,?)
                     """,
                     ('Flexity kurz', i, xy.days, z, w, s_2))
+=======
+               cursor.execute("INSERT INTO `trams`(`Tramtyp`,`TechnischerPlatz`,`Störungsbeginn`,`Auftragsnummer`, `Beschreibung`, `Abk_TechnischerPlatz`) VALUES ( ?,?,?,?,?,?)", ('Combino', i, xy.days, z, w, s_2))
+               c_com +=1
+               
+          elif s_2 >= 478 and s_2 <= 599:
+               cursor.execute("INSERT INTO `trams`(`Tramtyp`,`TechnischerPlatz`,`Störungsbeginn`,`Auftragsnummer`, `Beschreibung`, `Abk_TechnischerPlatz`) VALUES ( ?,?,?,?,?,?)", ('Cornichon', i, xy.days, z, w, s_2))
+               c_cor +=1
+               
+          elif s_2 >= 1449 and s_2 <= 1599:
+               cursor.execute("INSERT INTO `trams`(`Tramtyp`,`TechnischerPlatz`,`Störungsbeginn`,`Auftragsnummer`, `Beschreibung`, `Abk_TechnischerPlatz`) VALUES ( ?,?,?,?,?,?)", ('AWNF (Anhänger)', i, xy.days, z, w, s_2))
+               c_awnf +=1
+          
+          elif s_2 >= 5001 and s_2 <= 5998:
+               cursor.execute("INSERT INTO `trams`(`Tramtyp`,`TechnischerPlatz`,`Störungsbeginn`,`Auftragsnummer`, `Beschreibung`, `Abk_TechnischerPlatz`) VALUES ( ?,?,?,?,?,?)", ('Flexity lang', i, xy.days, z, w, s_2))
+               c_f_l +=1
+          
+          elif s_2 >= 6001 and s_2 <= 6300:
+               cursor.execute("INSERT INTO `trams`(`Tramtyp`,`TechnischerPlatz`,`Störungsbeginn`,`Auftragsnummer`, `Beschreibung`, `Abk_TechnischerPlatz`) VALUES ( ?,?,?,?,?,?)", ('Flexity kurz', i, xy.days, z, w, s_2))
+>>>>>>> 0e11e53bad7c7164283dc9cc7cf09f34bfc4e32d
                c_f_k +=1
                
      counter +=1
@@ -155,7 +195,11 @@ for i, y, z, w in zip(df_t, df_2, df_m, df_b):
 # I_Dis = input("Bemerkung Disponent: ")
 # cursor.execute(f"UPDATE trams SET Bemerkung = '{I_Dis}' WHERE '{F_Dis}' = TechnischerPlatz;")
 
+<<<<<<< HEAD
 #DataFrame 2 aus der Datenbank SQLite3 AB_Tram
+=======
+#Data frame 2 aus der Datenbank SQLite3
+>>>>>>> 0e11e53bad7c7164283dc9cc7cf09f34bfc4e32d
 df_2 = pd.read_sql_query("Select * from 'trams';", connection)
 
 connection.commit()
@@ -166,6 +210,8 @@ connection.close()
 
 
 fig, ax = plt.subplots(figsize=(14, 6))
+<<<<<<< HEAD
+=======
 
 x = df_2['Störungsbeginn'].tolist()
 y = df_2['Tramtyp'].tolist()
@@ -173,6 +219,26 @@ s = df_2['Störungsbeginn']
 annotations = df_2['Abk_TechnischerPlatz'].tolist()
 ax.scatter(x, y, s=s)
 
+# BESPRECHUNG Label zu nah aufeinander:
+for xi, yi, txt in zip(x, y, annotations):
+     print(xi, yi)
+     for i in y:
+        pass  
+     ax.annotate(txt,
+                xy=(xi, yi), xycoords='data',)
+#                xytext=(0.8, 0.8), textcoords='data',
+#                arrowprops=dict(arrowstyle="->", connectionstyle="arc3")
+
+ax.set(xlabel="Anzahl Tage Tram Ausserbetrieb", title=f"Scatter Plot: {list_dir[-1]}")
+>>>>>>> 0e11e53bad7c7164283dc9cc7cf09f34bfc4e32d
+
+x = df_2['Störungsbeginn'].tolist()
+y = df_2['Tramtyp'].tolist()
+s = df_2['Störungsbeginn']
+annotations = df_2['Abk_TechnischerPlatz'].tolist()
+ax.scatter(x, y, s=s)
+
+<<<<<<< HEAD
 # BESPRECHUNG Label zu nah aufeinander:
 for xi, yi, txt in zip(x, y, annotations):
      ax.annotate(txt,
@@ -190,6 +256,14 @@ size = [c_com, c_cor, c_awnf, c_f_l, c_f_k]
 tram = ['Combino', 'Cornichon', 'Anhänger', 'Flexity-lang', 'flexity-kurz']
 label = [
      'Combino / \nInsg. 28stk.', #warum geht \t und \a etc nicht? :0
+=======
+l_l_co = len(l_co)
+
+size = [c_com, c_cor, c_awnf, c_f_l, c_f_k]
+tram = ['Combino', 'Cornichon', 'Anhänger', 'Flexity-lang', 'flexity-kurz']
+label = [
+     'Combino / \nInsg. 28stk.',
+>>>>>>> 0e11e53bad7c7164283dc9cc7cf09f34bfc4e32d
      'Cornichon / \nInsg. 26stk.',
      'Anhänger / \nInsg. 20stk.',
      'Flexity-lang / \nInsg. 44stk.',
@@ -202,6 +276,7 @@ tramtyp = [x for x in tram]
 def func(pct, allvals):
     absolute = int(np.round(pct/100.*np.sum(allvals)))
     return f"{pct:.1f}% ({absolute:d} stk.)"
+<<<<<<< HEAD
 
 ax.pie(size, labels=label, autopct=lambda pct: func(pct, size))
 
@@ -209,8 +284,20 @@ ax.legend(tramtyp,
           title=f"Datum: {dt.date.today()}" +" " *20 +"\n" + f"Insgesamt Tram Ausserbetrieb: {l_l_co} \nLegende:",
           loc='center',
           bbox_to_anchor=(1, 0.25, 0.5, 1))
+=======
+>>>>>>> 0e11e53bad7c7164283dc9cc7cf09f34bfc4e32d
+
+ax.pie(size, labels=label, autopct=lambda pct: func(pct, size))
+
+<<<<<<< HEAD
+=======
+ax.legend(tramtyp,
+          title=f"Datum: {dt.date.today()}" +" " *20 +"\n" + f"Insgesamt Tram Ausserbetrieb: {l_l_co} \nLegende:",
+          loc="center",
+          bbox_to_anchor=(1, 0.25, 0.5, 1))
 
 
+>>>>>>> 0e11e53bad7c7164283dc9cc7cf09f34bfc4e32d
 ax.set_title(f"Ausserbetriebsliste: {list_dir[-1]}")
 
 plt.show()
